@@ -1,0 +1,834 @@
+id,text,pred,pred_prob,true_label,leisure_prob,leisure_rationales,politics_prob,politics_rationales,science_prob,science_rationales
+0,"This is the price hockey fans have to pay for the mistake of leaving
+ESPN 5 or 6 years ago...it will take time to correct for that mistake.
+
+But returning to ESPN was the correct decision last year...by next
+time, we may have the potential for Sportschannel and ESPN to really
+compete to offer better coverage and be forced to deliver on it.",leisure,0.985,leisure,0.984913076499128,"[('ESPN', 0.08937133822056789), ('hockey', 0.07631350466113361), ('fans', 0.05220247752237997), ('last', 0.03308089866436786), ('correct', -0.029065750110301897), ('years', 0.028943372063335526)]",0.006956319877186205,"[('ESPN', -0.029296869217109854), ('hockey', -0.025354890186712983), ('correct', 0.017320730992209068), ('fans', -0.01656720868299537), ('years', -0.011394393143730124), ('next', -0.010365819222219118)]",0.008130603623685687,"[('ESPN', -0.06069069775630005), ('hockey', -0.05091426428570185), ('fans', -0.03624619389078454), ('last', -0.027280364691534182), ('mistake', 0.020714249156306527), ('coverage', -0.01945056936522006)]"
+1,"It isn't that bad.  At least the Bugatti EB110 has compound curves compared
+to the slab sides on the Consulier.  And the Bugatti has a quad turbo V-12
+(thing of it as 4 three cylinder turbo engines tied together).  Also Ettore
+Bugatti's nephew is on the board of directors and had a hand in the
+development.  So that's about as much Bugatti as you are likely to get in
+today's world.  Much like Enzo Ferrari's illegitamate son being allowed to
+take over part of Ferrari as well... 
+
+
+That's funny.  I have motorcylclist friends who say the same about `cages'. 
+:-)
+
+Most GP 500cc motorcycles are V-4s, and the VF line of Hondas were all V-4s
+(from the VF-400F through the VF-1000F, including the RC30 race bike and
+the present VFR-750F).  It should be noted that Lancia built a V-4 in
+recent history in the Fulvia HF, a very pretty Italian coupe.",leisure,0.909,leisure,0.9093698762847139,"[('bike', 0.15000651479892266), ('motorcycles', 0.09801737636048369), ('turbo', 0.08619047660691888), ('engines', 0.07193016136763526), ('likely', -0.04578221308784567), ('son', -0.034024506213466615)]",0.04813317935355254,"[('bike', -0.05585249040456354), ('motorcycles', -0.03755025568200989), ('turbo', -0.033058693716520246), ('engines', -0.031657499739074675), ('likely', 0.028532445486341474), ('compound', 0.025706161525209093)]",0.0424969443617335,"[('bike', -0.09669986694172193), ('motorcycles', -0.06305214408212101), ('turbo', -0.05670375525967742), ('engines', -0.04368091496761068), ('board', 0.026761593952542018), ('development', 0.026243448925221416)]"
+2,": That more or less says it.  I flicked the Penguins game on briefly and saw
+: Ulf cross-check Valeri in the face.  I am wondering if Don Cherry is going to
+: go off on this at all in coach's corner.
+
+And that was the ONLY infraction of this type in the game. 
+Come on! Wake up! Geez He's not the only player who does this
+sort of thing. I think we were kind of lucky. The game was not
+really all that ""chippy"" considering the state NJ is in about
+now.",leisure,0.997,leisure,0.9966983062398767,"[('game', 0.09684694475709942), ('player', 0.041674751498829536), ('state', -0.024528337884933013), ('Cherry', 0.020039012424141786), ('go', 0.01847977368551553), ('wondering', 0.018407690558433658)]",0.002425670425674092,"[('game', -0.057640944326886115), ('player', -0.025254413957727255), ('state', 0.024540241501436112), ('Cherry', -0.011107566276079502), ('go', -0.010548459237104246), ('wondering', -0.008256323259527633)]",0.0008760233344493147,"[('game', -0.0386184239734998), ('player', -0.015960255308803874), ('wondering', -0.00942946256009716), ('Cherry', -0.008379035969312231), ('go', -0.007374578598784565), ('saw', -0.005646389254098773)]"
+3,"First off, use some decent terms if ya don't mind.  This is sci.med, not
+alt.sex.
+
+Secondly, how absolutely bogus to assume that ""American's are just too hung
+up on the penis....blah,blah"".  I think most American's don't care about
+anything so comlicated as that.  They just think it ""looks nicer"".  Ask 
+a few of them and see what response you get.  Others still opt for
+circumcision due to religious traditions and beliefs.  Some think it is
+easier to clean.  Still others do it because ""Daddy was"".
+
+Dont' be so naive as to think American's are afraid of sexuality.",science,0.419,science,0.2582271249371667,"[('s', 0.08975373741188301), ('American', -0.07326913971987598), ('think', 0.07124336852534584), ('use', -0.068909938005879), ('care', -0.06733619665055282), ('decent', 0.04402828379275939)]",0.4187526340725554,"[('s', -0.22829825637181547), ('American', 0.1610769170178568), ('sexuality', 0.052587807872416216), ('care', 0.05111051058981298), ('circumcision', -0.04896143812459947), ('religious', 0.046848099140981016)]",0.3230202409902777,"[('s', 0.1219116246401648), ('American', -0.1051283445196985), ('use', 0.06821025596769197), ('circumcision', 0.06726562565250112), ('think', -0.05315618431718069), ('absolutely', -0.04751491065745711)]"
+4,"BMWs boxer twin! (no two wheelers here?) Been around since 1923. I think the
+other examples are Johnny come latelies... I may be wrong so no flames please..",leisure,0.768,leisure,0.7683676450506186,"[('twin', 0.19777646461089873), ('boxer', -0.10788098719724398), ('please', 0.09100457082424955), ('Johnny', 0.069347852781379), ('examples', -0.06227140598240737), ('think', 0.03891677439553931)]",0.04040692872321992,"[('please', -0.03168847484047956), ('may', -0.025998769688627972), ('twin', -0.020604292399478617), ('come', 0.01798021780078079), ('wrong', 0.014502619419631432), ('Johnny', -0.011931893971835352)]",0.19122542622616162,"[('twin', -0.18466041290011748), ('boxer', 0.09560395138229626), ('please', -0.06734175822783568), ('Johnny', -0.06421194092837107), ('may', 0.05816288048319966), ('examples', 0.04075970847310739)]"
+5,"The new Cruisers DO NOT have independent suspension in the front.  They
+still
+run a straight axle, but with coils.  The 4Runner is the one with
+independent
+front.  The Cruisers have incredible wheel travel with this system. 
+
+The 91-up Cruiser does have full time 4WD, but the center diff locks in
+low range.  My brother has a 91 and is an incredibly sturdy vehicle which
+has done all the 4+ trails in Moab without a tow.  The 93 and later is even
+better with the bigger engine and locking diffs.",leisure,0.979,leisure,0.9789886670786788,"[('front', 0.06646821680816474), ('wheel', 0.0489981524448085), ('engine', 0.04646791856174367), ('Cruisers', 0.032696053192823094), ('suspension', 0.029434206359609364), ('system', -0.019769979592055082)]",0.010165560386370353,"[('front', -0.020085473075674144), ('engine', -0.017481806206104508), ('wheel', -0.016937727238163256), ('Cruisers', -0.013738316697842035), ('vehicle', -0.013061149745678766), ('incredible', 0.012804185436744315)]",0.010845772534950891,"[('front', -0.04731183148616621), ('wheel', -0.03235493261637446), ('engine', -0.02988484508698329), ('suspension', -0.021301083904305268), ('Cruisers', -0.020363963996294136), ('system', 0.01809906544308498)]"
+6,"I would appreciate any thoughts on what makes a planet habitable for Humans.
+I am making asumptions that life and a similar atmosphere evolve given a range
+of physical aspects of the planet.  The question is what physical aspects
+simply disallow earth like conditions.
+
+eg Temperature range of 280K to 315K (where temp is purely dependant on dist
+     from the sun and the suns temperature..)
+   Atmospheric presure ? - I know nothing of human tolerance
+   Planetary Mass ? - again gravity at surface is important, how much
+     can human bodies take day after day.  Also how does the mass effect
+     atmosphere.  I thinking of planets between .3 and 3 times mass of the
+     earth.  I suppose density should be important as well.
+
+Climate etc does not concern me, nor does axial tilt etc etc.  Just the above
+three factors and how they relate to one another.
+
+Jonathan
+--",science,0.942,science,0.014968641773956072,"[('earth', -0.0298587524962172), ('planet', -0.01710618577377855), ('eg', -0.01574807597277408), ('etc', -0.014104233697643572), ('nothing', -0.012336931402730466), ('mass', -0.011890749787608082)]",0.042849345008068265,"[('etc', -0.061424360000928345), ('earth', -0.04062631685228357), ('mass', 0.02599419807064497), ('sun', -0.024182896934304712), ('important', 0.023648967471639387), ('appreciate', -0.021874709050256198)]",0.9421820132179758,"[('etc', 0.07291484379684142), ('earth', 0.06912205486749759), ('eg', 0.031558357586263464), ('sun', 0.03125461279903027), ('effect', 0.028736878005316307), ('important', -0.024288520406767777)]"
+7,"I think one only needs to scan Mr. Davidsson's bibliography to see what kind
+of objective sources he uses.",politics,0.641,politics,0.1852090305150541,"[('Mr', -0.2112977678176413), ('sources', -0.12421867636585272), ('objective', 0.05960356413021854), ('s', 0.04624280764656477), ('bibliography', 0.043737455745855525), ('think', 0.03535677204464559)]",0.6411494046196765,"[('Mr', 0.4227648139301954), ('sources', 0.09256250724513952), ('bibliography', -0.0822895557711877), ('s', -0.08150815062075475), ('needs', -0.05723273000282939), ('scan', -0.05163784096853674)]",0.17364156486526958,"[('Mr', -0.2125266795369407), ('uses', 0.04143220400127187), ('bibliography', 0.03859078578493546), ('s', 0.0375908602911696), ('see', -0.03630848931304497), ('sources', 0.03232872792268011)]"
+8,"Well, they can't listen in on much of mine, since I already use
+cryptography for much of my electronic mail, and will start using it
+for my telephony as soon as practical.
+
+However, allow me to tell a parable.
+
+There was once a far away land called Ruritania, and in Ruritania
+there was a strange phenonmenon -- all the trees that grew in
+Ruritainia were transparent. Now, in the days when people had lived in
+mud huts, this had not been a problem, but now high-tech wood
+technology had been developed, and in the new age of wood, everyone in
+Ruritania found that their homes were all 100% see through. Now, until
+this point, no one ever thought of allowing the police to spy on
+someone's home, but the new technology made this tempting. This being
+a civilized country, however, warrants were required to use binoculars
+and watch someone in their home. The police, taking advantage of this,
+would get warrants to use binoculars and peer in to see what was going
+on. Occassionally, they would use binoculars without a warrant, but
+everyone pretended that this didn't happen.
+
+One day, a smart man invented paint -- and if you painted your house,
+suddenly the police couldn't watch all your actions at will. Things
+would go back to the way they were in the old age -- completely
+private.
+
+Indignant, the state decided to try to require that all homes have
+video cameras installed in every nook and cranny. ""After all"", they
+said, ""with this new development crime could run rampant. Installing
+video cameras doesn't mean that the police get any new capability --
+they are just keeping the old one.""
+
+A wise man pointed out that citizens were not obligated to make the
+lives of the police easy, that the police had survived all through the
+mud hut age without being able to watch the citizens at will, and that
+Ruritania was a civilized country where not everything that was
+expedient was permitted. For instance, in a neighboring country, it
+had been discovered that torture was an extremely effective way to
+solve crimes. Ruritania had banned this practice in spite of its
+expedience. Indeed, ""why have warrants at all"", he asked, ""if we are
+interested only in expedience?""
+
+A famous paint technologist, Dorothy Quisling, intervened however. She
+noted that people might take photographs of children masturbating
+should the new paint technology be widely deployed without safeguards,
+and the law was passed.
+
+Soon it was discovered that some citizens would cover their mouths
+while speaking to each other, thus preventing the police from reading
+their lips through the video cameras. This had to be prevented, the
+police said. After all, it was preventing them from conducting their
+lawful surveilance. The wise man pointed out that the police had never
+before been allowed to listen in on people's homes, but Dorothy
+Quisling pointed out that people might use this new invention of
+covering their mouths with veils to discuss the kidnapping and
+mutilation of children. No one in the legislature wanted to be accused
+of being in favor of mutilating children, but then again, no one
+wanted to interfere in people's rights to wear what they liked, so a
+compromise was reached whereby all homes were installed with
+microphones in each room to accompany the video cameras. The wise man
+lamented few if any child mutilations had ever been solved by the old
+lip reading technology, but it was too late -- the microphones were
+installed everwhere.
+
+However, it was discovered that this was insufficient to prevent
+citizens from hiding information from the authorities, because some of
+them would cleverly speak in languages that the police could not
+understand. A new law was proposed to force all citizens to speak at
+all times only in Ruritanian, and, for good measure, to require that
+they speak clearly and distinctly near the microphones. ""After all"",
+Dorothy Quisling pointed out, ""they might be using the opportunity to
+speak in private to mask terrorist activities!""  Terrorism struck
+terror into everyone's hearts, and they rejoiced at the brulliance of
+this new law.
+
+Meanwhile, the wise man talked one evening to his friends on how all
+of this was making a sham of the constitution of Ruritania, of which
+all Ruritanians were proud. ""Why"", he asked, ""are we obligated to
+sacrifice all our freedom and privacy to make the lives of the police
+easier? There isn't any real evidence that this makes any big dent in
+crime anyway! All it does is make our privacy forfeit to the state!""
+
+However, the wise man made the mistake of saying this, as the law
+required, in Ruritanian, clearly and distinctly, and near a
+microphone.  Soon, the newly formed Ruritanian Secret Police arrived
+and took him off, and got him to confess by torturing him. Torture
+was, after all, far more efficient than the old methods, and had been
+recently instituted to stop the recent wave of people thinking obscene
+thoughts about tomatoes, which Dorothy Quisling noted was one of the
+major problems of the new age of plenty and joy.
+
+--
+Perry Metzger		pmetzger@shearson.com",politics,0.868,science,0.0030809279472943964,"[('people', -0.014692416175166173), ('law', -0.012835199134060834), ('police', -0.01217845776745836), ('country', -0.008429147827149019), ('would', -0.007753610043138936), ('use', -0.007677494049790927)]",0.8681342153580339,"[('people', 0.11592419764243342), ('man', 0.0988960138737501), ('law', 0.07777070757867746), ('technology', -0.07408338626633515), ('police', 0.061209824837546216), ('country', 0.057524814096456926)]",0.12878485669467152,"[('people', -0.11149440770002064), ('man', -0.10347228268776726), ('law', -0.0749704719296559), ('technology', 0.06480284310659745), ('police', -0.05993639769935284), ('use', 0.059517672923453994)]"
+9,"The FBI says that some of the survivors claim to have seen the leaders
+of the cult talking about setting a fire, and to have smelt kerosene.
+I assume this will come out at any trial that occurs as a result
+of these events.",politics,0.998,politics,6.910587736441339e-06,"[('FBI', -0.026957114876246212), ('fire', -0.02531765991501558), ('trial', -0.02404240237294689), ('claim', -0.01804005418430064), ('survivors', -0.009634940276224063), ('talking', -0.009204355111177134)]",0.9979648519013791,"[('FBI', 0.06094693907657823), ('fire', 0.06052249248810781), ('trial', 0.05811096390673806), ('claim', 0.031167946285922763), ('survivors', 0.022814091362602144), ('says', 0.019125796307779688)]",0.0020282375108846033,"[('fire', -0.03718057464531055), ('trial', -0.03524682364417738), ('FBI', -0.03519188158822602), ('says', -0.021773727075678064), ('survivors', -0.014667867128782583), ('result', 0.014282509008981769)]"
+10,"OK I sold all but these, I had some offers and I accepted an offer
+of 25.00 for the pair from bdale@gag.com ( Bdale Garbee ).  I don't
+know what happened to him but he won't reply now that I accepted
+it so I'll offer these again.",science,0.648,science,0.2743895611382348,"[('offer', -0.20521975689707422), ('sold', 0.1527701109264172), ('OK', 0.102393871064836), ('reply', -0.0952976402882252), ('offers', -0.09390074461689035), ('accepted', -0.06808793310971656)]",0.07744510142577757,"[('happened', 0.027663915635426885), ('reply', -0.0265551843772847), ('offer', -0.018050493768612893), ('I', -0.017854129886680233), ('ll', -0.01752021804179904), ('accepted', 0.01594614014848571)]",0.6481653374359874,"[('offer', 0.2221691879075862), ('sold', -0.14360821913921828), ('reply', 0.11909130067044855), ('offers', 0.10331893339734498), ('OK', -0.09609210798321921), ('know', 0.05144773668588924)]"
+11,"It is not a matter of dis-belief but a matter of which of their constantly
+(and radically) changing stories we are to believe.
+
+Steve B.",leisure,0.578,politics,0.2681496444564627,"[('believe', -0.13443436780061713), ('stories', -0.11873605397796233), ('Steve', 0.09294113090085628), ('matter', -0.06171809124526879), ('radically', 0.04091709183044541), ('dis', 0.034057719321848014)]",0.5775911811519395,"[('stories', 0.2035438284458533), ('believe', 0.15311637363676198), ('matter', 0.06933703091158244), ('radically', -0.06429753334997867), ('belief', -0.050136950217547334), ('Steve', -0.04946016653454229)]",0.15425917439159798,"[('stories', -0.08625634357546641), ('Steve', -0.044949040664292464), ('belief', 0.03492909042726242), ('radically', 0.023532291713328865), ('changing', -0.021010348017386556), ('believe', -0.017801156869117506)]"
+12,"It may be a good way to catch a cold.  It's easy to pick up cold
+viruses on your fingers, either from touching a contaminated surface,
+or by shaking hands with someone that has a cold.  Then putting your
+fingers in your nose will transfer the viruses to your nose.
+
+
+--
+Steven Litvintchouk
+MITRE Corporation
+202 Burlington Road
+Bedford, MA  01730-1420",leisure,0.592,science,0.5921498266297515,"[('Road', 0.2027627799840086), ('cold', -0.1361626274121874), ('pick', 0.10990814623933957), ('nose', -0.079433732794257), ('hands', 0.07763074415929802), ('Steven', -0.05802797294151943)]",0.06701716590187938,"[('cold', 0.04160996488718863), ('Road', -0.025715122194832917), ('may', -0.020676583602616767), ('pick', -0.02050408828938887), ('good', -0.018746153047349095), ('surface', -0.014869390753953254)]",0.34083300746836914,"[('Road', -0.17289521754024578), ('cold', 0.09891592490618006), ('nose', 0.08994702540614248), ('pick', -0.0842156517029965), ('hands', -0.07134563290859697), ('may', 0.0589027963735863)]"
+13,"Sounds like Darryl being Darryl, Tommy spending too much time on
+Slim Fast and needs a pasta fix, and the media being their usual
+""charming"" selves.  Sounds like a New York-like story to me!!  :-)
+
+I saw the replay and am wondering what the big deal is?  I didn't
+realize the folks in LA were making a big to do about it.  I think
+Stawberry, Lasorda and the various media types should sit and watch
+the replay then apologize to the fan.
+
+
+Darryl has not gotten off to a good start, he has to blame someone.
+
+
+As long as the fan doesn't interfere with the play I see no problems.",leisure,0.893,leisure,0.8933068562775166,"[('fan', 0.17878435110905547), ('media', -0.07505714636765945), ('play', 0.07358687921398042), ('like', 0.054975208628003765), ('wondering', 0.042456685095496424), ('replay', 0.04081910797665816)]",0.05208898130549637,"[('fan', -0.08372204521826869), ('media', 0.07351329250741657), ('like', -0.05463267342328644), ('Sounds', -0.044184275826904165), ('play', -0.03655284228163626), ('story', 0.02873587132575797)]",0.05460416241698708,"[('fan', -0.10470342621755689), ('play', -0.047409810063287164), ('Sounds', 0.037016249323748134), ('wondering', -0.03641661791409525), ('watch', -0.03359807758343789), ('usual', 0.022692478287072545)]"
+14,"brings up the issue of how the escrow agent will be paid, and the fact
+that the government had financial leverage if they don't cooperate.
+It's an important issue, especially if one of the escrow agents
+decides they'd rather stop offering the service. 
+I assume that if the escrow agent isn't the government,
+then the contract for providing escrow service would include some
+termination clause like returning the keys.
+
+
+But who's the user paying the fees here, and what's the service?  
+If the user is the government, then the funding's not separate from the government.
+
+If the user is the buyer, what's the service?  
+Keeping the key for me?  No thanks - I don't need, and won't buy their service!
+Not telling everybody my key?  Sounds like blackmail!
+
+If the user is the manufacturer, does the user have a choice about buying?
+The alternative is to just generate the key and not escrow it, which is fine -
+I'd certainly pay more for this kind of key than an escrowed key!
+
+Face it, the escrow provider is providing a service the users don't want.
+The only people who want it are the government, not the users.
+What you're really talking about is either the government paying for
+the service, up front or per-year, either from general taxes,
+or from a special direct tax on wiretap chips, or on an indirect tax
+(forcing the manufacturer to pay the fee to the escrow agent.)
+
+I hope the escrow people have no way of finding out your name from
+your serial number, especially if the escrow is a government agency.
+
+Here in New Jersey, we have lots of people willing to provide that
+sort of services for user fees.  There are people willing to keep your
+store from burning down for a small monthly fee, though sometimes people
+refuse to pay and discover that the service really was effective.
+If you go to a baseball game at Yankee Stadium, there are people who
+will watch your car in the parking lot for a small user fee.
+Something could scratch the paint, after all.
+And what a shame if your Clipper key got out!",science,0.879,science,0.018381689224380427,"[('government', -0.1082998611703667), ('key', -0.05951263845375008), ('people', -0.05806370138926074), ('car', 0.03916193689330288), ('service', -0.037361048485892175), ('baseball', 0.027901023537885743)]",0.10310782613315622,"[('key', -0.2663372680058264), ('escrow', -0.17146089853248297), ('people', 0.12548046336994673), ('government', 0.11886620097319048), ('user', -0.1152790293961916), ('tax', 0.0957700179215122)]",0.8785104846424634,"[('key', 0.30937916421017003), ('escrow', 0.1807791387930442), ('user', 0.10695240437633777), ('tax', -0.09070244432602091), ('people', -0.08461475025315582), ('service', 0.05319879093051348)]"
+15,"Greg, no flame intended, but you have no discernible sense of
+humor.  What Bill wrote was intended to be funny.  It's called a
+""joke"", Greg.  Look into it.
+	Besides, Kirilian photography is actually photography of my
+friend's two-year-old son Kiril.  Perhaps you meant ""Kirlian""?",science,0.443,science,0.20985114423983145,"[('photography', -0.0847922308056476), ('Greg', 0.08423351009380008), ('joke', -0.06739671105068054), ('humor', 0.062023476871743956), ('Bill', -0.06173301204314956), ('son', -0.047898862255820206)]",0.34676766529375125,"[('photography', -0.1763708653927119), ('Bill', 0.1503773418299002), ('intended', 0.08638956226219263), ('Kirlian', -0.07438530360947672), ('meant', 0.0732569065664271), ('funny', 0.05904339155571466)]",0.44338119046641716,"[('photography', 0.25231265904007855), ('Kirlian', 0.11153803205669077), ('humor', -0.10330324952991218), ('Bill', -0.0971923932489893), ('Greg', -0.06894262585206766), ('intended', -0.059486225089778307)]"
+16,"If you get blown over riding your bike down your drive at home then
+it's too windy to ride...=8^D.",leisure,0.998,leisure,0.9979593507925602,"[('bike', 0.08340113412223894), ('riding', 0.05110654131707238), ('home', 0.029677606233050286), ('drive', 0.025079568146008566), ('windy', -0.022392906182673252), ('D', -0.01768694413933154)]",0.0012532599962329315,"[('bike', -0.0327497424407174), ('riding', -0.01782051408379126), ('drive', -0.01049983026257624), ('home', -0.009581944177181287), ('blown', 0.009197714573827485), ('windy', 0.008599231150363606)]",0.0007873892112069353,"[('bike', -0.050756769176386864), ('riding', -0.033559603860514445), ('home', -0.020208025920651622), ('drive', -0.014606756644172377), ('windy', 0.013862898476034244), ('D', 0.010945124881400497)]"
+17,"This is to followup my previous reply on this topic, which it has been
+pointed out to me might have been dangerously misleading in two spots.
+
+1.  I stated that psychotherapy (meaning talking therapy and so on) was used 
+    to treat Obsessive Compulsive Disorder, which though sometimes true is 
+    misleading.  It is not often found effective, particularly by itself.
+    Primary treatment today usually consists at least in part of drug
+    therapy.  The most current theories of this condition attribute 
+    it to more to biological causes than psychological, in places where this
+    distinction becomes important.
+
+2.  I mentioned that the DSM-IIIR mentions 'impulses' as a possible 
+	diagnostic marker.  However, this might look like something
+	people associate with psychotic conditions, uncontrollable or
+	unpredictable behaviors, which is NOT the case with OCD.  
+	One of the diagnostic criteria of OCD is that the individual
+	can and does suppress some of their 'impulses,' although they
+	are an unending source of anxiety.  
+	The obsessive thoughts and ritualistic actions usually associated with 
+	OCD are most frequently very mundane and predictable, closer to
+	a superstitious nature than a dangerous nature for the most part.
+
+	Some references (one non-technical and several technical)
+	that someone was kind enough to supply for me
+	but was unable to post themself :
+
+
+	(technical refs) :
+
+
+
+
+
+	And thanks very much to those who supplied constructive  
+	criticism to my first post on OCD.  I hope this helps clarify
+	the parts that were misleading.
+
+						kind regards,",science,0.941,science,0.0052135486709438145,"[('technical', -0.010813323955789808), ('drug', -0.009889688868235474), ('treatment', -0.008652323282344282), ('theories', -0.007997451686219546), ('might', -0.007789278995777371), ('topic', -0.007612489994141139)]",0.05342869090144695,"[('technical', -0.0602165273923151), ('post', 0.04222444318968793), ('thanks', -0.029333105970689995), ('might', -0.02758004947915155), ('therapy', -0.02533725557338663), ('usually', -0.025032918985922123)]",0.9413577604276089,"[('technical', 0.07291512946946689), ('post', -0.03940460319848752), ('might', 0.03672783953050649), ('thanks', 0.03473291056026284), ('therapy', 0.033915400650493754), ('treatment', 0.03119630990867792)]"
+18,"No, it is more because van drivers need a little support for driving
+such underpowered pathetic and truly utilitarian vehicles.  Me and
+my '71 used to wave and be waved at all across the country between
+NH and CO.  Now that we live in So. Cal., though, I find you'd have
+to damn near wave your arm off to keep up with all the van drivers!
+This is truly vee-dub heaven.
+
+peace,
+Taffe",leisure,0.574,leisure,0.5743558963782218,"[('drivers', 0.21246414998309796), ('driving', 0.13840169834063687), ('country', -0.10913865705275647), ('support', -0.10491538240887054), ('used', -0.08048593614668408), ('wave', 0.0734524199863511)]",0.1991543798433735,"[('peace', 0.10820866830358154), ('drivers', -0.10553527268614198), ('country', 0.10124287272313634), ('little', -0.07891967960560771), ('wave', -0.07419154223475465), ('support', 0.055935638464704944)]",0.2264897237784045,"[('drivers', -0.11902077184558599), ('driving', -0.08394332088648482), ('used', 0.07767677876034836), ('peace', -0.05334396618630423), ('van', 0.044975658059052966), ('near', 0.03853045278134332)]"
+19,"OK. Lets look into this.
+According to my dictionary,
+Zi-on-ism: an international movement orig. for the establishment of a Jewish
+national or religious community in Palestine and later for the support of
+modern Israel.
+
+Now, I do not support the establishment of nations based on religious 
+principles, while I support the establishment of nations based on cultural
+identities.
+
+So. Here are some questions I have to ask for anyone to answer. My point
+is what someone said long time ago: In politics, like with men, it is important
+to distiguish between what they say they do and what they are actually
+doing.
+
+1) My mother is Jewish (and so is my father). If I apply for the Law of
+Return, do I get in as a Jew trying to return to his land, from which my
+family was expelled about 2000 years ago?
+2) If I go back, which nationality would my ID show?
+3) If I decided to go back to the land from which my relatives had been 
+expelled 2000 years ago, but first I convert to any other religion, can I 
+apply to the law of Return as a member of the Jewish Nation or should I 
+apply as someone whose mother is Jewish?
+4) Which nationality would show my ID in case 3)?
+5) What has change in me between the day before and the day after I converted
+to loose my being part of the Jewish Nation?
+6) Suppose I want to get married to my current wife, who is non-Jewish in
+Israel, how do I do it?
+7) How would my situation change if I decided, after going back to
+Israel, to convert to Islam?
+
+
+Now, here is one more question. I do believe that most people in a country
+do not care about politics. They just want to be left alone.
+Suppose my father is Arab. Suppose he was born in Palestine, in some place 
+which now is part of Israel. Suppose that his father, and his grandfather as
+well as 20 or 30 generations before him were born in that place.
+Now suppose there is a war of independence and my father, scared by all the
+fighting going on, tries to take his family to a place more secure, among 
+people he knows, who speak a language he understands, who worship the same
+god. Now, suppose that that place is some other Arab country. 
+And, now suppose that the war is over and that there is a new country created
+where my father used to live, and that that country is called Israel.
+And, that in that country, Jews from all over the world are received. And
+that people whose family left thet country 200 generation ago are recieved and
+granted full-citizenship.
+Should I, if I decided to go back to my father's land, where he was born as
+20 or 30 generations of my family were born, have the right to go back and
+ask to be recognized in the same way those who are returning after 2000
+years?
+
+Then, finally, people ask me how I would define a Jew, but that is irrelevant.
+I am not talking about how I would define a Jew, but about how people in 
+Zionist organizations, and more important, in Israel, define a Jew.
+How would those who are Zionist define a Jew?",politics,1.0,politics,2.661942067211011e-10,"[('Israel', -0.005843693794928852), ('Jew', -0.005345116359394365), ('people', -0.004869330595863609), ('country', -0.004844851085572059), ('would', -0.0034597608310172326), ('Arab', -0.0034147197962737905)]",0.9999916070672243,"[('Israel', 0.010277830976910773), ('Jew', 0.009148706236703465), ('people', 0.008030017936736031), ('country', 0.007759069794397773), ('Arab', 0.005822194610844321), ('land', 0.0057461704968090705)]",8.392666581382489e-06,"[('Israel', -0.004226973290337576), ('Jew', -0.0038327402166938016), ('Jewish', -0.003317431892544165), ('people', -0.002898063560941758), ('country', -0.0027747845343976257), ('Arab', -0.0023835757611624206)]"
+20,"Someone named Hansk asked about pictures.
+
+Well, there is an archive of portraits in xfaces format at
+ftp.uu.net. Henry Spencer's picture is there somewhere, along
+with several thousand others.
+
+I don't remember the path, though it should be easy to find.
+Remember, though, it seems to use both internet and uucp
+addresses.",science,0.883,science,0.08502797324228817,"[('use', -0.0786189190791411), ('uucp', -0.05153495812031335), ('though', 0.0504743847601902), ('seems', -0.04752527803601207), ('picture', -0.04295558237885606), ('internet', -0.04183912455098631)]",0.03200926180786485,"[('remember', -0.02457309803045943), ('Remember', -0.022733931486673332), ('use', -0.020098007248052528), ('Well', 0.018677683254677398), ('though', -0.01716114240115684), ('thousand', 0.015374892630664492)]",0.8829627649498468,"[('use', 0.09937866606796078), ('uucp', 0.06814789009243315), ('Well', -0.060784703001825424), ('seems', 0.0603476031171054), ('picture', 0.05518080782366022), ('Henry', 0.04761733537660232)]"
+21,"Here is a press release from the American Federation of Teachers.
+
+ HHS Secretary Shalala to Address AFT's Paraprofessional and
+School-Related Personnel Conference
+ To: National and Assignment desks, Education Writer
+ Contact: Jamie Horwitz of American Federation of Teachers,
+          202-879-4447
+
+   News Advisory:
+
+   Secretary of Health and Human Services Donna Shalala will speak
+to the 16th annual AFT Paraprofessional and School-Related
+Personnel Conference at 8 p.m., Friday, April 23, at the
+Washington Hilton.  Shalala will discuss HHS's agenda for helping
+children over the next four years.
+   AFT's Paraprofessional and School-Related Personnel Division
+includes school workers such as paraprofessionals and teacher
+aides, school bus drivers, school secretaries, school custodians
+and maintenance workers and school food service workers.  More
+than a thousand school employees will attend the conference which
+is being held at the Washington Hilton, April 23-25.  Most of the
+school workers attending the conference come from urban school
+districts where child health and nutrition, welfare reform and the
+availability of Head Start and other preschool programs are major
+issues.
+   Workshops scheduled for the conference include sessions
+addressing issues around reauthorization of Chapter 1; how
+paraprofessionals and school-related personnel, especially
+minority men, can serve as student role models; the increasing
+problem of school violence; dealing with abused children; and
+assisting children with serious health problems.
+   For a complete conference schedule, contact Jamie Horwitz
+at 202-879-4447.
+   The American Federation of Teachers represents 805,000
+elementary and secondary teachers, paraprofessionals and
+school-related personnel, higher education faculty, nurses, state
+and municipal workers.
+ -30-",politics,0.926,politics,0.017146823949643213,"[('children', -0.03841726634783835), ('American', -0.03470511393598937), ('health', -0.030630272544651133), ('Health', -0.020769706278778458), ('state', -0.019986216111746672), ('school', 0.01676082278126057)]",0.9262501746142444,"[('American', 0.11153288356243683), ('children', 0.10830809061610124), ('state', 0.051437757837061476), ('child', 0.04369798561390683), ('men', 0.041896458038139545), ('health', 0.038878126682136)]",0.05660300143611227,"[('American', -0.07865218945727798), ('children', -0.07182267591237912), ('state', -0.033295587960717674), ('child', -0.02609243419716573), ('men', -0.025204830695614383), ('Secretary', -0.023658216098763504)]"
+22,"Although the $1 billion scheme is a fantasy (it's an old canard in the space
+business called ""trolling for billionaires""), there is a good chance that a
+much smaller program ($65 million) will pass the 103rd Congress. This is the
+Back to the Moon bill, put together by the people who passed the Launch
+Services Purchase Act. The bill would incent private companies to develop
+lunar orbiters, with vendors selected on the basis of competitive bidding.
+There is an aggregate cap on the bids of $65 million.
+ 
+Having a single rich individual paying billions for lunar missions is probably
+worse than having the government bankroll a $65 million program, as the Delta
+Clipper program has shown (DC-X was funded by SDIO at $59 million). We have a
+clear chance of making a lunar mission happen in this decade - as opposed to
+simply wishing for our dreams to come true. Please support the Back to the
+Moon bill.
+ 
+For more information, please send E-mail with your U.S. postal service
+address.",science,0.965,science,0.0007353084062984316,"[('program', -0.008661238233871753), ('Moon', -0.0073820334441715195), ('space', -0.007100854536840598), ('lunar', -0.005534880110524382), ('government', -0.0046155080844090726), ('information', -0.004498073293088585)]",0.0338597634708531,"[('lunar', -0.11522567828486976), ('bill', 0.09526474242780654), ('Moon', -0.0927387636513453), ('space', -0.08008168043657223), ('program', -0.06843495872519946), ('million', 0.05573823847919299)]",0.9654049281228485,"[('lunar', 0.12145900275799747), ('Moon', 0.10061072897429185), ('bill', -0.09257412204952638), ('space', 0.08760411255190353), ('program', 0.07753371286250756), ('million', -0.053512210282200094)]"
+23,"Here in Australia most cars are manual (privately owned anyway).  Why?
+Not sure, I think it has something to do with the fact that our car industry
+in the past was more closely aligned with Europe than the US in the past.
+Now it's aligned with Asia.
+
+Scott.
+_______________________________________________________________________________
+Scott Fisher [scott@psy.uwa.oz.au]  PH: Aus [61] Perth (09) Local (380 3272).                
+                                                             _--_|\       N
+Department of Psychology                                    /      \    W + E
+University of Western Australia.      Perth [32S, 116E]-->  *_.--._/      S
+Nedlands, 6009.  PERTH, W.A.                                      v       
+
+Joy is a Jaguar XJ6 with a flat battery, a blown oil seal and an unsympathetic 
+wife, 9km outside of a small remote town, 3:15am on a cold wet winters morning.",leisure,0.936,leisure,0.9363871352242076,"[('cars', 0.1349862076272311), ('car', 0.1336323027259881), ('Australia', -0.07474565375288038), ('_', 0.07393875521899042), ('oil', 0.05112075745101745), ('Scott', 0.029531555828159226)]",0.016930547326051714,"[('car', -0.02794889577799831), ('cars', -0.027937758434435443), ('_', -0.013013927079199466), ('fact', 0.009734536113826173), ('battery', -0.008833848591556948), ('flat', -0.007592959783506124)]",0.046682317449740794,"[('cars', -0.10760334797911934), ('car', -0.10700735656051308), ('Australia', 0.07835384959412914), ('_', -0.061639852828641345), ('oil', -0.045251005826535434), ('Scott', -0.02555245512702333)]"
+24,"I saw this nifty drawn out posting and I thought I might give the two of you
+   a little help with your problem. As you both know what you posted,(and this 
+   foolish thing gave me so much shit last time I tried to post) I took the 
+   liberty of deleting all but the header and a single quote. I hope you don't
+   mind.
+
+   As written the second ammendment states rather clearly for anyone who can
+   read the following:
+
+ ""  A well regulated militia, being necessarry to the security of a free state,
+   the right of the people to keep and bear arms shall not be infringed.""
+
+  What is regulated? Regulated means ""controlled""! How about security?
+  Well hey! That would be along the lines of being and feeling safe wouldn't
+  it? Wow! We have a concept forming here don't we!? Now what have we left?
+  ""the right of the people people people people people people people (sorry
+  got kinda hungup there) shall NOT be infringed"" Oops! Backup there,hmmm..
+  ""infringed""....That'd be like Interfered with, altered, changed or
+  watered down in any way,shape or form! So! What we have here in it's big old
+  long winded version would be.
+
+  "" A well controlled militia, being necessary to the secure/safe feeling of
+  state, the right of the PEOPLE to keep and bear arms shall not be Fucked
+  with in any way shape or form by some happy ass good for nothing in 
+  some piddly government building who wants to run my life in the pursuit of
+  his happiness!"" The item is clear and concise in it's present form my young 
+  friend! It does not need my clarification or that of any other. THIS IS
+  ONLY AMMENDMENT which guarantees the continued existence of the others.
+  It's whole purpose is to give people recourse against the military machine
+  of a government which fails to properly represent it's creators!US!
+
+
+
+ANY REPLIES OR COMMENTS CAN BE SENT TOO KANE.    DJH4484@RIGEL.TAMU.EDU
+
+""No representative government need fear it's armed citizens""
+
+""Death to Tyrants!""",politics,0.995,politics,1.9468996647075457e-05,"[('people', -0.022501807735814623), ('government', -0.016687087234203903), ('state', -0.009501777976252875), ('military', -0.007103865965863439), ('states', -0.006138711146099073), ('would', -0.005824019047922889)]",0.9952314266198099,"[('people', 0.11918571383255597), ('government', 0.04906209087147314), ('state', 0.048207250734862456), ('states', 0.027477170410134304), ('Death', 0.024657955863292016), ('military', 0.024173196735269478)]",0.004749104383543045,"[('people', -0.09604339082579219), ('state', -0.03885804591800243), ('government', -0.031557962045784274), ('Death', -0.020669172842271943), ('states', -0.020554758391363122), ('militia', -0.01801456890146405)]"
+25,"-> The current 4.9l V-8 will soldier on for about two years.  A version
+-> of the 32 valve modular V-8 in the Mark VIII could be offered then.
+
+How unfortunate for anyone who loves the simplicity with which 302 and
+351 Fords and 305 and 350 Chevys can be built up. Still, it will provide
+a needed punch for the Ford to stay up with the new Firebird/Camaros. It
+wouldn't surprise me if Ford called the engine a 5.0 litre in the
+Mustang. (We all know that the current 5.0 is really 4.9 litres anyway)
+
+-> Undisguised, the car looks OK, but not nearly as exciting as the new
+-> Camaro/Firebird, IMO.
+
+I must agree. I don't think I've seen anything as impressive looking as
+the new Firebird since my friend back home sold his 1970 Formula 400
+Firebird (for a paltry $2000, without even telling me. The bastard.)",leisure,0.973,leisure,0.9732710615028971,"[('car', 0.11109556562488343), ('Ford', 0.09672142875843474), ('Fords', 0.0468673512508532), ('engine', 0.04496288450226835), ('new', 0.030577476789910723), ('current', -0.030496920314808655)]",0.008863233196423582,"[('car', -0.031392747902064706), ('Ford', -0.02640354325184546), ('engine', -0.01578216956799973), ('Fords', -0.01320213810306294), ('soldier', 0.012900233936592488), ('new', -0.01143243522956292)]",0.017865705300679772,"[('car', -0.08184812709375769), ('Ford', -0.07272382815751884), ('current', 0.03870871147516846), ('Fords', -0.03581596374948026), ('engine', -0.031717873893101524), ('new', -0.021484165036649145)]"
+26,": Well, now, Doc, I sure would not want to bet my life on those little
+: critters not being able to get thru one layer of sweat-soaked cotton
+: on their way to do their programmed task.  Infrequent, yes, unlikely,
+: yes, but impossible?  I learned a long time ago never to say never in
+: medicine   <g>                        Len Howard MD, FACOG
+
+Yes, I suppose a single layer of wet cotton would be feasible.  After all,
+we certainly do not make condoms out of cotton!]",science,0.519,science,0.1611613960800473,"[('would', -0.07618841847234767), ('medicine', -0.04494176117511861), ('ago', -0.03675336745285311), ('want', -0.03333330711333159), ('condoms', 0.031191574757019877), ('never', 0.029508323737837662)]",0.32003191116948904,"[('cotton', 0.13504659683232348), ('little', -0.07206172171180239), ('would', 0.07141694105213833), ('layer', -0.06489626494835732), ('say', 0.06230778647638998), ('medicine', -0.05117214863728111)]",0.5188066927504634,"[('cotton', -0.12667522330831488), ('medicine', 0.1036308264999406), ('ago', 0.09843012278882352), ('layer', 0.09187525185171158), ('never', -0.08084802849214154), ('say', -0.07128336131561121)]"
+27,"Sorry, I still don't buy it.  You're certainly right that the runner is
+not out merely for running out of the baseline: he must interfere with
+the play.  But the argument here is over what constitutes interference.
+You certainly cannot infer from what you've quoted that the batter-runner
+must be hit by the ball to be guilty of interference: you haven't posted
+a definition of interference at all.
+
+IMO this calls for one of the ""approved ruling[s]"" that go in small print
+in the rulebook.  Something like:
+
+APPROVED RULING:
+If in the judgement of the umpire the runner, by running to the left
+of the allowed path, caused the fielder to make a bad throw, blocks the
+vision of the fielder receiving the throw, or otherwise impedes the
+defensive team's making a play on him, the batter-runner shall be
+judeged guilty of interference.
+
+or
+
+APPROVED RULING:
+The runner cannot be judged guilty of interference in the unless he makes
+contact with a fielder or is hit by the thrown ball.
+
+--
+In the absence of such an approved ruling I claim that this is a poor
+rules trivia question--since it cannot be authoritatively answered.",leisure,0.698,leisure,0.698389074545036,"[('interference', -0.1550284625450123), ('play', 0.12001823125474159), ('hit', 0.09432548497121837), ('runner', 0.08444550350753016), ('ball', 0.05899081221545558), ('cannot', -0.05554184829280335)]",0.13762133874475774,"[('play', -0.04995286846844373), ('guilty', 0.04955517373524663), ('ball', -0.04410938012677343), ('runner', -0.03160243971647134), ('claim', 0.02775174617811293), ('quoted', 0.026464791899502817)]",0.16398958671020594,"[('interference', 0.16613596491933122), ('play', -0.07154221992643503), ('hit', -0.06827202957259765), ('guilty', -0.05871429254300716), ('runner', -0.05438591040938444), ('team', -0.031968455447001616)]"
+28,"FOR SALE OR TRADE!!!
+
+BMW R60US frame and misc.,converted to Earles fork. The package includes:
+
+	Frame, swingarm and Earles fork
+	Final drive(27/8)
+	Rear fender, front fender, large tank
+	Steel wheels laced w/ ss spokes, one new rim, one EC used rim
+	All brackets, brake hdware, footrests etc.
+	The colour scheme used is the original BMW optional Bristol grey
+	Items not painted are: Earles rigid section(needs straightening,
+		this rigid section was bent when I received it, not from 
+		being mounted to the R60US frame),Earles swingarm and the 
+		headlight shell. I have the paintthat was used and can 
+		finish the non-painted items if desired. The striping 
+		was done by Holt Design.
+	Not included: engine, gearbox, electrics, seat.
+
+This is a clean and tidy project. The project was terminated due to lack of
+	time and the R69(35hp) engine that was to be used was transferred 
+	to another project. I would prefer to sell the package as whole.
+	I am negotiable as to what can be included in the package, I will
+	not separate any of the painted items. I am willing to take /2
+	spares in trade.",leisure,0.951,leisure,0.9506948826097349,"[('BMW', 0.11139337710144517), ('engine', 0.09633201656694419), ('project', -0.06479677352919497), ('painted', 0.06041146474436794), ('used', -0.06040782819534992), ('wheels', 0.05593328021552647)]",0.010061316430812815,"[('BMW', -0.017721232755651538), ('engine', -0.0172938493860517), ('wheels', -0.008823929146368224), ('painted', -0.007780528329945565), ('Rear', -0.0057592917705173025), ('package', 0.005254345954415092)]",0.03924380095945241,"[('BMW', -0.09365649574546267), ('engine', -0.07882911077935388), ('project', 0.06774850149149665), ('used', 0.057073108128076026), ('painted', -0.05252838078893413), ('wheels', -0.04711207126608343)]"
+29,"Hello all,
+
+          There is a small problem a friend of mine is experiencing and I 
+would appreciate any help at all with it.
+
+My friend has been diagnosed as having a severe case of depression requiring 
+antidepressants for a cure. The main problem is the side effects of these. 
+So far she has been prescribed Prozac, Aurorix, and tryptanol all with 
+different but unbearable side effects.
+
+The Prozac gave very bad anxiety/jitters and insomina, it was impossible to 
+sit still for more than a minute or so.
+
+The Aurorix whilst having a calming effect, all feelings were lost and the 
+body co-ordination was similar to a drunken person. Her brain was clouded 
+over.
+
+The tryptanol gave tremors in the legs and panic attacks along with unco- 
+ordination occurred. She did not know what she was doing as her brain was 
+""closed down"".
+
+Has anyone had similar problems and/or have any suggestions as to the next 
+step?
+
+Thankyou in advance.",science,0.969,science,0.018289154442480877,"[('Prozac', -0.027109989598276683), ('effects', -0.026440214377357295), ('similar', -0.021058398091015573), ('case', -0.019708600420284512), ('help', -0.01836280015556427), ('antidepressants', -0.01726820800953961)]",0.01234139280211624,"[('Prozac', -0.015115083833666089), ('anyone', -0.010885059612206234), ('problem', -0.010831612448141813), ('Hello', -0.010481139567862426), ('appreciate', -0.009311190397351093), ('advance', -0.008256329867795805)]",0.969369452755403,"[('Prozac', 0.043232519379026946), ('effects', 0.03589127405681631), ('similar', 0.02908830296504486), ('help', 0.02789572633921669), ('antidepressants', 0.026707223878161997), ('anyone', 0.026303111181406442)]"
+30,"A question for any high-mileage Audi owners out there: I am
+interested in buying a 1989 Audi 5000S for $5500 Cdn.  The
+reason the car is selling for so little is that is has
+155000 km on it (just under 100000 mi.).  The car's owner
+claims the car is in good condition.  My question is: how
+reliable are Audi 5000s with mileage that high?  Would it
+be worthwhile for me to buy the car?  Any problem areas that
+I should look out for?
+
+Any help would be greatly appreciated.  Post responses and/or
+e-mail me.
+
+Thanks
+
+Steve Hui",leisure,0.99,leisure,0.9903871586569102,"[('car', 0.5162892168881528), ('high', -0.05639645093248933), ('mileage', 0.05173170309759227), ('owner', 0.04621420809854911), ('responses', -0.04277913312842337), ('owners', 0.04027555220572188)]",0.0011054646719884421,"[('car', -0.05342361679041634), ('Thanks', -0.015840397930014353), ('buy', -0.009423062604971954), ('little', -0.009256421142334577), ('Post', 0.009194804921448191), ('question', 0.00904595364391731)]",0.008507376671101387,"[('car', -0.47187984544262185), ('mileage', -0.05472481245436596), ('high', 0.05125144327482196), ('owner', -0.049995826826664626), ('responses', 0.04082869636134262), ('greatly', 0.036068433860659666)]"
+31,"I don't think there is a general distinction.  Rather, there are
+two classes of chronic hepatitis: chronic active hepatitis and chronic
+persistent hepatitis.  I can't think of any other disease where the
+term persistent is used with or in preference to chronic.
+
+Much as these two terms ""chronic active"" and ""chronic persistent""
+sound fuzzy, the actual distinction between the two conditions
+is often fairly fuzzy as well.",science,0.855,science,0.0930164531740515,"[('disease', -0.06208011894799349), ('chronic', -0.040801411446529934), ('used', -0.0336243742282685), ('actual', -0.0329441266853304), ('Rather', -0.027035324357097303), ('think', 0.024342076426243652)]",0.052123379883704246,"[('disease', -0.03126665310390146), ('chronic', -0.029726617869812), ('well', 0.021346589337072418), ('sound', -0.02073440452541625), ('two', -0.017383840865803486), ('actual', -0.014274659449726685)]",0.8548601669422443,"[('disease', 0.095050511861119), ('chronic', 0.07200739095400208), ('actual', 0.047700159850715344), ('used', 0.04463890989815667), ('well', -0.03938753755986326), ('sound', 0.03656017539104426)]"
+32,"This is the case in Britain, according to the head of the computer crime
+unit here when I interviewed him a couple of months ago.
+
+wg",science,0.657,science,0.08062370558067047,"[('case', -0.0924611231841087), ('computer', -0.07423954599017792), ('ago', -0.04846170983804589), ('crime', -0.04426236352729063), ('head', 0.04230492849110826), ('wg', 0.03737599326389835)]",0.2628506239938007,"[('crime', 0.2898207507563547), ('computer', -0.13107590679922607), ('ago', -0.1294047890880357), ('unit', -0.11861003215505508), ('case', 0.09666844657245245), ('couple', -0.04105677745171538)]",0.6565256704255289,"[('crime', -0.24532352378489689), ('computer', 0.20864763276137976), ('ago', 0.1817539069097814), ('unit', 0.15163664133283958), ('head', -0.053317703902527415), ('according', -0.04370945975088032)]"
+33,"Please explain how the removal of Israel from the eqation is going to
+ease the situation in Iran, Iran/Iraq, Iraq, Iraq/Kuwait, Syria,
+Lebanon, Libya, Algeria, Egypt, Sudan ...  Human rights, freedom of
+press and religion, slavery, government oppression in authoritarian
+societies  --  how are these going to be solved by removing Israel
+from the Middle East?",politics,0.995,politics,0.0024610464112359083,"[('Israel', -0.06081763724214092), ('government', -0.029869676894186625), ('freedom', -0.02220444622501453), ('Iran', -0.016687517286552718), ('rights', -0.01334069818221669), ('Lebanon', -0.013303873701035964)]",0.9947570466933165,"[('Israel', 0.11847229672802416), ('government', 0.03896585094515812), ('freedom', 0.03757595684744405), ('Iran', 0.03713617577874158), ('Lebanon', 0.02720931563196218), ('religion', 0.024032132797931205)]",0.0027819068954475345,"[('Israel', -0.05727045819868382), ('Iran', -0.020576209703844175), ('freedom', -0.015136398397944999), ('Lebanon', -0.01317369926327784), ('societies', -0.011129988995288899), ('religion', -0.01090737415552853)]"
+34,"As far as I know, there is no FAQ for tpg.  Somebody was working
+on one, but I think it ""died in committee.""",science,0.664,politics,0.14860954036028637,"[('working', -0.1830839160195133), ('Somebody', 0.0595661023011368), ('know', -0.05262266463269989), ('think', 0.046783808726889496), ('committee', -0.0450657468132908), ('died', -0.04031861497329958)]",0.18709255576346903,"[('FAQ', -0.17990167934303392), ('tpg', 0.1596269757228113), ('working', -0.06789072704341521), ('Somebody', -0.05673276609198202), ('died', 0.050998011509268124), ('committee', 0.048493461862197225)]",0.6642979038762448,"[('working', 0.25040802774513743), ('FAQ', 0.15123997645732074), ('tpg', -0.13847123996419924), ('know', 0.06262594134816021), ('think', -0.048513887892607445), ('far', -0.01725240082870869)]"
+35,"Probably, but the point is THE COMPANY make the registration patch, NOT
+YOU.  Sure, you can probably find another registerred user and compare notes,
+but WHY?  It's not hindering you in any way unless you are just hacking.
+[Problem about people who cut TOO MUCH from quoting...]
+
+
+Nothing, but if you read my WHOLE suggestion, I'm saying that you register
+via MAIL by mailing in your registration card, THEN the company send you
+the patch which includes the info you put on the registration card.",science,0.902,science,0.04629912088453982,"[('card', -0.06937604098419181), ('quoting', -0.041553713532974976), ('mailing', 0.03783691200756844), ('people', -0.03142642328973809), ('Nothing', -0.030784767487035597), ('probably', -0.028625809464003293)]",0.0521483270619772,"[('company', -0.04556555413183568), ('COMPANY', -0.04245261782468882), ('people', 0.0363430956825248), ('registration', 0.03433009608803741), ('Probably', -0.03115955680483161), ('probably', -0.03063324147305965)]",0.9015525520534831,"[('card', 0.06706182748113872), ('quoting', 0.05486878026595469), ('company', 0.04803186357151222), ('COMPANY', 0.047160294195995295), ('Probably', 0.045308822979373366), ('probably', 0.045308719236498006)]"
+36,"-=> Quoting Bill Gregory to All <=-
+
+ 
+
+ BG> hey I saw that game!  I thought the Sabres looked better that you
+ BG> described. It's Boston that looked weak and unsure of themselves.  Even
+ BG> if (big if) they (bruins) win the third game what's that going to
+ BG> prove?  They be lucky!
+
+
+     Well now the Sabres are up 3 - 0 in games, and its to
+     bad that Boston isn't putting up more of a fight as
+     that could have been the best series of the playoffs,
+     I think Boston will come out smoking in the next
+     two games and that Buffalo will end the series in
+     game six back in Buffalo, and say, how about those Islanders?
+     they are up 2 - 1 on the Capitals and will probably
+     win the series, only to be clobbered by the Penguins who
+     should eliminate the Devils in the next game.
+     I cannot see (i'm sad to say) anyone beating the 
+     Penguins this year (again) and they will take cup # 3 
+     I'm afraid.  well talk to ya later.
+
+
+Steve",leisure,0.999,leisure,0.9986322892412838,"[('game', 0.0517086037830029), ('games', 0.028999638740249245), ('win', 0.023287761914403477), ('cup', 0.01309504547771408), ('next', 0.012738664217108106), ('BG', -0.012051268918991788)]",0.0005771655135956604,"[('game', -0.019164770844527865), ('games', -0.010274329401391275), ('win', -0.007784919211907363), ('next', -0.0054948004304355424), ('series', -0.005373175028132706), ('BG', 0.0044408120114377385)]",0.0007905452451206214,"[('game', -0.032578283326378375), ('games', -0.018719362291306878), ('win', -0.01548208245781), ('cup', -0.008296200566711409), ('say', -0.007727254269654026), ('BG', 0.007635550680056879)]"
+37,"(Eric Roush) writes...
+
+
+
+
+Funny.  I didn't realize Mr. Tanner brought up Bob Knepper v. Pam Postema
+in the first place.  Thought it was someone named Jacobs.
+
+
+Why?  If a statement is truly idiotic, and is universally thought so,
+the challenge is a waste of panting.  Further, challenges that have
+nothing (yes, nothing) to do with *baseball* are wasting others' time.
+
+You got a problem with what Bob Knepper thinks?  Let's hear it, in
+some sort of categorical manner.  (Actually, I question whether either
+Knepper or Postema aren't ""old news"" at this point, although what I
+have read of Postema's book is interesting.)
+
+
+I agree this far.
+
+
+Sez you.
+
+
+That does not come out in what you say down the road, here.
+
+
+Yo.  Even elementary school children have had access to our postings,
+albeit in an edited form.  You want them to hear you talk like this?
+Don't you want people who come to this group to talk baseball to think
+you like to do the same?  Or do you want them to think you're some 
+politically correct demagogue who's oh-so sensitive?  (Ho-hum.)
+
+Plus, you're here limiting free speech to ""some obscure newsgroup that
+I don't read.""  What BS.  You got a problem with what Jacobs says, what
+Knepper thinks, all you have to do is defeat it with better ideas, more
+and better speech.  Yours is the easy way out.
+
+As for Knepper: ever notice how sometimes these guys will say just about
+any darn thing that pops in their heads when a mike is shoved in front of
+them?  You know that often the best copy for the news is the one that isn't
+pre-prepared.  They know Knepper has controversial ideas about women, they
+pop some question about Postema.  (An interesting related question would 
+be whether the two ever appeared in the same game.  Off the top of my head,
+I guess ""no.""  If my guess is right, Knepper popped off about something that
+had nothing to do with him -- and Postema gets a book for it, and he doesn't.)
+
+
+Now, why didn't *I* think of that?  :-)  :-)  :-)
+
+RG",politics,0.72,leisure,0.2025433428829242,"[('baseball', 0.15960992293008222), ('nothing', -0.1088152447517713), ('want', -0.09744171895371782), ('speech', -0.08812567168151404), ('people', -0.0823344347200846), ('game', 0.07539268126659132)]",0.7203371187276811,"[('baseball', -0.12493720266452137), ('Mr', 0.09715653208369715), ('news', 0.09628005122450926), ('people', 0.09167634998677243), ('want', 0.0912976949554656), ('speech', 0.08584052519301703)]",0.07711953838939489,"[('baseball', -0.04733590870851181), ('say', -0.04089006857627318), ('news', -0.03584301373616539), ('ideas', 0.03368190422404821), ('Mr', -0.03249632832284234), ('statement', -0.02984546970157063)]"
+38,"Janet Reno killed the Waco children.  She is responsible for
+their deaths.  She should resign immediately.  She should have 
+understood that David Koresh was a madman who would do anything
+against the children if he became provoked.  All the warning 
+signs were there and she ignored them.  She provoked Koresh
+into killing the children.
+
+The situation in Waco was similar to a hostage situation with 
+a madman holding a gun against the head of an innocent person.
+In such a situation, a person who provokes the madman and causes 
+him to pull the gun's trigger is responsible for the death of the
+hostage.  Janet Reno blindly stumbled in there and basically
+threw a tear gas container at the madman hoping that he would
+release the hostage.  It's no surprise that the madman would
+pull the trigger in response to that kind of provocation.",politics,0.976,politics,0.01088506467917511,"[('gun', -0.053387585705959986), ('madman', 0.0397245759981668), ('children', -0.0352716972679246), ('Waco', -0.026439032510617407), ('would', -0.026138144044533216), ('killed', -0.021724008598474374)]",0.9763941066931646,"[('gun', 0.10916324079298423), ('madman', -0.07901807554261768), ('children', 0.06892628518958348), ('Waco', 0.052126560152215666), ('killed', 0.04680447471361574), ('Koresh', 0.04380218589370084)]",0.012720828627660441,"[('gun', -0.05584978442497088), ('madman', 0.0402408860141878), ('children', -0.03337324349548553), ('Waco', -0.02470828610934409), ('killed', -0.024050320584394956), ('Koresh', -0.023421515182410202)]"
+39,"Sure there are quacks. There are quacks who don't treat and quacks who
+treat. One's that refuse to diagnose and ones that diagnose improperly. 
+There are lucky quacks and unlucky quacks. Smart quacks and dumb ones. 
+
+There are people ahead of their time, with unprobable or unproven theories
+and rationals. There are ill-reasoned, absurd, theorists. 
+
+Sometimes it's hard to tell who's who.  
+
+Reading a book of ancient jokes it seems that doctors called other doctors
+quacks in Babylon. 
+
+Arguments abound when there aren't any firm answers. Plenty of illnesses
+aren't, or can't, be diagnosed or treated. But I think it's better to argue
+against the theory, as was originally done with postings on candida a month
+or so ago. Stating the facts usually works better than simply asserting an
+opinion about someone's competency. And you can't convince everybody. 
+
+Sometimes a correct diagnosis
+takes years for people: they don't run into a doctor who recognizes the
+disease, they haven't developed something recognizable yet, or they have
+something that no one is going to recognize, because it hasn't been
+described yet. Sometimes they get a cure, sometimes the illness wears out,
+sometimes they stumble on an improper diagnosis with the right treatment,
+sometimes they find it's incurable.  
+
+There is no profit in a patient accepting a hopeless attitude about an 
+illness. Unless it's a rock solid diagnosis of terminal disease it's is
+more like ly that a person will find a cure if they keep looking.",science,0.994,science,0.0023568268016116163,"[('doctors', -0.014194579184521565), ('disease', -0.013700935477147595), ('quacks', -0.010536568099212147), ('doctor', -0.008730385695196208), ('treatment', -0.0076553249209745326), ('people', -0.007505107055804905)]",0.003403200282638292,"[('quacks', -0.013810658940624032), ('disease', -0.013587847579056076), ('doctors', -0.011343796835433984), ('doctor', -0.007294517476970548), ('treatment', -0.006897836526628131), ('people', 0.006594766583239498)]",0.9942399729157502,"[('disease', 0.02621108290131882), ('doctors', 0.024367467523053108), ('quacks', 0.023068605972467175), ('doctor', 0.014427557624667003), ('treatment', 0.013388346660250912), ('patient', 0.012405441741494065)]"
+40,"To really speed up the game umps need to START CALLING STRIKES the way
+they used to.  I'm talking about making the strike zone start at the
+knees and go up to the top of the letters.  Forget this ""the strike zone
+is in the general area of the groin"".  A lot less 3-and-2 counts and a
+quicker game.",leisure,0.976,leisure,0.9755716934963901,"[('game', 0.20757039594721755), ('zone', 0.061205869608309996), ('go', 0.043342198007335804), ('area', -0.03196779239912297), ('umps', 0.029921248970176187), ('used', -0.026415577416039587)]",0.014737231550223965,"[('game', -0.10190433218827061), ('zone', -0.035754815227081446), ('speed', -0.022058521135958787), ('go', -0.019080706320574323), ('talking', 0.018923255123245906), ('area', 0.018684671230790893)]",0.009691074953385856,"[('game', -0.10366785216963997), ('used', 0.025097213666073693), ('go', -0.022371264907864577), ('zone', -0.022114455665350568), ('top', -0.015513207694434589), ('START', -0.014457623819072014)]"
+41,"Can some on e give me some stats on Forsrg in the World Championships
+
+If sao mail to ua256@freenet.victoria.bc.ca",leisure,0.833,leisure,0.8327667330065951,"[('stats', 0.23550225509990058), ('Championships', 0.13117128147272597), ('World', -0.10022308592508364), ('mail', 0.09320308161593775), ('sao', -0.08639325961067572), ('give', -0.046441244322036564)]",0.08474606568733263,"[('mail', -0.0847136752473228), ('World', 0.06688043985452886), ('Championships', -0.0658410543428555), ('sao', 0.0376003228571915), ('stats', -0.03161613246488045), ('give', 0.024173506139988095)]",0.0824872013060722,"[('stats', -0.2033668372315199), ('Championships', -0.0653922144225798), ('sao', 0.049129956905594255), ('World', 0.03436711386904049), ('give', 0.022315949982020446), ('bc', -0.013787056897680158)]"
+42,"^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+Markus, what is that we are noting about the spelling?  That you aren't good at it? :^)
+That Peugeot is OUT of N. America?  What does this mean?",leisure,0.481,leisure,0.4813132122523919,"[('mean', -0.18369337693426), ('good', 0.10252984562835281), ('spelling', 0.05030175079813107), ('Markus', 0.03894915638514797), ('noting', -0.033311364501867696), ('Peugeot', -0.013723099686764412)]",0.2515960249164015,"[('mean', 0.1731379075178728), ('good', -0.10928250119361482), ('Markus', -0.048895463589434314), ('Peugeot', -0.03237390801851601), ('spelling', 0.02208550777473556), ('America', 0.009686782693039821)]",0.26709076283120625,"[('spelling', -0.07177157186107865), ('Peugeot', 0.04625873142281684), ('noting', 0.04247525874078364), ('America', -0.01663657039281835), ('mean', 0.011325966230784688), ('Markus', 0.010590854783666974)]"
+43,"[...details deleted...]
+
+
+
+Oh, great.  We fans can subsidize the cost of speeding up the games
+that we don't want to see sped up.  Terrific.
+
+Oh.  I forgot.  Checking off that box to finance Presidential campaigns
+doesn't cost us taxpayers anything.  
+
+Do you believe in the Tooth Fairy, too?
+
+
+
+--	The Beastmaster
+
+
+(sorry.  I hate to be so sarcastic on such a beautiful day.)",leisure,0.849,leisure,0.8494211746716994,"[('games', 0.19504989406896406), ('fans', 0.11577098378851339), ('sarcastic', 0.06523107483877912), ('believe', -0.06313571454844942), ('taxpayers', -0.056924186019790365), ('great', 0.05372239545653265)]",0.09918292065842568,"[('games', -0.10941734476624647), ('fans', -0.06612844415990587), ('sarcastic', -0.04920723781298555), ('taxpayers', 0.04849940217326381), ('believe', 0.047472458649775215), ('want', 0.03643226094107538)]",0.0513959046698748,"[('games', -0.0988442400714916), ('Oh', -0.06877740964518818), ('fans', -0.06049621042559855), ('cost', 0.059356700688418515), ('box', 0.03488904956046435), ('great', -0.03075163909828745)]"
+44,"I am looking at buying a Dual Sport type motorcycle. This is my first
+cycle as well. I am interested in any experiences people have with
+the following motorcycles, good or bad.
+
+	Honda XR250L
+	Suzuki DR350S
+	Suzuki DR250ES
+	Yamaha XT350
+
+Most XXX vs. YYY articles I have seen in magazines pit the Honda XR650L 
+against another cycle, and the 650 always comes out shining. Is it safe
+to assume that the 250 would be of equal quality ?",leisure,0.939,leisure,0.9388224138664507,"[('Honda', 0.20569600505729127), ('motorcycle', 0.12217186676671028), ('Sport', 0.09037757377802318), ('motorcycles', 0.059991184799088), ('people', -0.05762995784633172), ('cycle', -0.05374866272007487)]",0.025192329007226576,"[('Honda', -0.05713737571209977), ('people', 0.0420100762011776), ('motorcycle', -0.03616012979791036), ('Sport', -0.025573259871771052), ('motorcycles', -0.018627041968796696), ('cycle', -0.01416659882714887)]",0.035985257126322764,"[('Honda', -0.15030097606681891), ('motorcycle', -0.0869424248927814), ('cycle', 0.06559841563866346), ('Sport', -0.06551806155176199), ('motorcycles', -0.04268520730140043), ('following', 0.030406107556541138)]"
+45,"What is this ""Gaza""? Are you purposely separating it from the ""West Bank""?
+If so, why separate the people and territories? If not, why are you just
+addressing ""Gaza"" here? 
+
+By all means, continue to list the ""etc."" The reason I particularly
+bring this up here is that there are **many** from middle eastern
+and west asian countries. That fact in itself **adds** an important
+element to any consideration of ""resolution"" of the Arab-Israel
+conflict.
+
+
+You explained what ""sea"" meant with regard to the Israelis/jews,
+please do so in this case.
+
+
+""Just""? You better not ask for that because that would mean North 
+American tribes would be returned their lands, the pre-Islamic tribes 
+would take back their lands from the Islamic invaders, the Saxons get 
+to kick the Normans out of the UK, the central and south american 
+tribes get to kick the spanish descendents out of thier lands..... 
+And, once we have returned the land to those who last possessed it, 
+we have to find out from whom **they** stole it. At some point, *every* 
+culture stole the land they are on from previous occupants.
+
+
+But wait! Now you refer to ""Palestinians"", so what happened to ""Gaza""?
+
+As we both know, most people would choose the third alternative. And,
+since you have done so in the past, perhaps you would initiate things by 
+presenting your vision of ""resolution"". In doing so, however, the worries
+(not paranioas, *worries*) and resonable expectations **of both**
+parties should be considered.",politics,0.975,politics,0.005394213803397016,"[('people', -0.023152282582859725), ('would', -0.0223934862265757), ('Gaza', -0.014180631399227804), ('land', -0.012716842607839772), ('parties', -0.011969703670956247), ('case', -0.009753669551665168)]",0.9749802308498351,"[('people', 0.052588164926807596), ('Gaza', 0.04451374969643657), ('would', 0.03670473439462778), ('land', 0.03660169785723149), ('parties', 0.030431822867926124), ('american', 0.02729313864381149)]",0.019625555346768235,"[('Gaza', -0.030361719863599767), ('people', -0.028987355752860884), ('land', -0.02297872232157564), ('parties', -0.01788404051407298), ('american', -0.017623973374936132), ('American', -0.017302639545911228)]"
+46,"I didn't catch your posting one year ago, but I presume you like to leave out
+an extra a-latch ? (I presume you allready know there is a '573 but that couldnt
+be the question, could it ? ;-)
+
+During my student-trainee project, I discouvered a nice device, it's a PSD301  
+from Waferscale Integration. In one single (44 PLCC I think it was) package
+it contained: ROM, RAM, I/O lines and a programmable addressdecoder...
+
+As far as I can recall, it can be hooked directly with a MCS-51 series uP ... 
+Neat huh ? But it needs programming before assembly, so it wasn't suitable
+for my project. Perhaps usefull for you (future) plans ?",science,0.944,science,0.03566024548614194,"[('project', -0.10608018725608119), ('device', -0.05242405587166989), ('ago', -0.03530705702619466), ('huh', 0.03435814812587863), ('lines', -0.027282376867654237), ('RAM', -0.026634750855191076)]",0.020250949384674477,"[('project', -0.03449721926794611), ('posting', 0.02087635641171654), ('device', -0.020725759753570997), ('ago', -0.016852367374129443), ('series', -0.014573082359616074), ('could', -0.014135191842734759)]",0.9440888051291836,"[('project', 0.14077854719187644), ('device', 0.0716860765310717), ('ago', 0.05254868128468177), ('huh', -0.04247766736314126), ('could', 0.03932925472441806), ('lines', 0.035604852812730514)]"
+47,"Yep! Sounds good to me. suggestion: sci.electronics.art ?
+
+Best regards,",science,0.705,science,0.2828633189686424,"[('suggestion', -0.18662396956226193), ('regards', -0.16704569406785988), ('Yep', 0.12655588577661755), ('Sounds', -0.10143447709650842), ('Best', 0.10021344656719335), ('good', 0.08591526278823465)]",0.011899528436995271,"[('Sounds', -0.02541833483767141), ('good', -0.014694875800729857), ('regards', -0.010111148351419066), ('suggestion', 0.00662274661732065), ('sci', 0.0051965933136496004), ('Best', -0.004006429162446916)]",0.7052371525943625,"[('suggestion', 0.17976035446008273), ('regards', 0.17704145075026567), ('Yep', -0.12891108065607404), ('Sounds', 0.12670335355591825), ('Best', -0.0963028265256445), ('good', -0.07141584092409888)]"
+48,"Would you like fries with that, sir?",science,0.619,politics,0.20706811384041834,"[('Would', -0.20391157603067323), ('sir', -0.1288578678089877), ('like', 0.035458638207114125), ('fries', -0.01982288282399992), ('with', -0.0031022589443850113), ('you', -0.00030925111021659927)]",0.17360936000714974,"[('like', -0.15585742283766724), ('Would', 0.12213518261849617), ('fries', -0.04777484870987101), ('sir', 0.025729104621136558), ('you', -0.005231545950697776), ('that', -0.004337435634913847)]",0.619322526152432,"[('like', 0.1205799666525704), ('sir', 0.1032651448107725), ('Would', 0.08174650459365818), ('fries', 0.06767385940674053), ('with', 0.006400030566104024), ('you', 0.005345568458558613)]"
+49,"Yes and No. ESPN2 will be launched as early in September. Cap Cities
+are currently working with cable companies to ensure a good start-up
+base needed for a launch for any brand new cable service.
+
+The problem ESPN2 faces is the TCI-Cablevision connection in the
+merger of their Prime and SportsChannel networks. Prime SportsChannel
+will try to wrestle away NHL from ESPN in the off-season. Also,TCI
+and Cablevision have control a large number of cable systems around the
+country with a total of 15 million subscribers. TCI-Cablevision will
+do their best that ESPN2 never gets off the ground successfully. And the
+NHL's value will suddenly skyrocket in this cable war between Prime SC
+and ESPN. NHL is more vital to the survival of a regionalized Prime
+SportsChannel since they virtually have no national major league sports
+contracts and only cover local NHL/NBA/MLB sports teams.",leisure,0.837,leisure,0.8373210288533681,"[('ESPN2', 0.13789459067049334), ('sports', 0.1344969519172478), ('NHL', 0.11174153439487924), ('launch', -0.07907252515142496), ('cable', -0.07676753008964968), ('ESPN', 0.07495677921810068)]",0.015603890542589335,"[('sports', -0.01835237473267695), ('cable', -0.018237370118355276), ('ESPN2', -0.017555139478416564), ('NHL', -0.017283546108682594), ('war', 0.01204825283915831), ('country', 0.010996478258417253)]",0.14707508060404254,"[('ESPN2', -0.12410627213232416), ('sports', -0.12034805565144174), ('NHL', -0.09810227755572117), ('cable', 0.09152716449183179), ('launch', 0.07963272126551067), ('ESPN', -0.06647852724255471)]"
