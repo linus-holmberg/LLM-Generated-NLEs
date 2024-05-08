@@ -1,0 +1,454 @@
+id,text,pred,pred_prob,true_label,leisure_prob,politics_prob,science_prob,formatted_politics_rationales,formatted_science_rationales,formatted_leisure_rationales,prompt,prompt_no_rationale,pred_rationales_words,short_NLE_with_rationale,GPT-model,short_NLE_no_rationale
+0,"Which Western states have laws that charge sales tax on the difference between
+a new car's price and the trade-in's value?  I know California charges you on 
+the full value of the new vehicle regardless of trade-in.
+
+If you are a California resident, is it legal to buy a car in a state other than
+California without also paying California sales tax?  How does California 
+enforce any law that requires you to also pay California sales tax (on top of 
+the out-of-state tax)?",politics,0.9436942931019674,leisure,0.052325784735902,0.9436942931019674,0.0039799221621304,"'tax': 0.579, 'car': -0.171, 'state': 0.087, 'states': 0.078, 'sales': -0.067, 'laws': 0.064","'tax': -0.044, 'car': -0.027, 'sales': -0.013, 'state': -0.011, 'value': 0.007, 'states': -0.006","'tax': -0.536, 'car': 0.196, 'sales': 0.079, 'state': -0.077, 'states': -0.073, 'laws': -0.062","Input: Which Western states have laws that charge sales tax on the difference between
+a new car's price and the trade-in's value?  I know California charges you on 
+the full value of the new vehicle regardless of trade-in.
+
+If you are a California resident, is it legal to buy a car in a state other than
+California without also paying California sales tax?  How does California 
+enforce any law that requires you to also pay California sales tax (on top of 
+the out-of-state tax)?
+
+Output: politics
+Confidence: 0.9436942931019674
+Output rationale: 'tax': 0.579, 'car': -0.171, 'state': 0.087, 'states': 0.078, 'sales': -0.067, 'laws': 0.064.","Input: Which Western states have laws that charge sales tax on the difference between
+a new car's price and the trade-in's value?  I know California charges you on 
+the full value of the new vehicle regardless of trade-in.
+
+If you are a California resident, is it legal to buy a car in a state other than
+California without also paying California sales tax?  How does California 
+enforce any law that requires you to also pay California sales tax (on top of 
+the out-of-state tax)?
+
+Output: politics
+Confidence: 0.9436942931019674","['tax', 'car', 'state', 'states', 'sales', 'laws']","The Support Vector Machine has analyzed your text and determined that the theme is politics with a high confidence of 94%. This conclusion was drawn primarily from the frequent mention of words such as 'tax', 'state', 'states', and 'laws', which are commonly associated with political topics. Despite the presence of words such as 'car' and 'sales' which may be linked to other topics, their slight weight did not outweigh those of the stronger indicators of the politics class.",gpt-4,"The Support Vector Machine (SVM), a type of machine learning model, has processed the given text and made a determination on its classification. 
+
+Given the provided text about state laws and vehicle taxes, the SVM model has classified the text as related to 'politics'. The confidence score of about 0.94 indicates that the model is quite sure of its decision. This high confidence is likely due to the fact that the text mentions laws, taxes, and states - topics often associated with politics."
+1,"Atomic Energy Commision - Hmm, they would say this.
+
+The Earth may spew alot of substances into the atmosphere, but the quality 
+of your toxic output can easily make up for the lack of quantity.  Furthermore, 
+the planet is a system of carbon, sulfur and other chemicals which have been
+acting for billions of years, we are but newcomers to the system - we must adapt
+and control in order to bring about stability.  Also, two wrongs do not make a right, 
+so continuing our practices despite overwhelming data is just ignorance in (non)action.
+
+
+Educated and open minded environmentalists do not.",science,0.8657276886892139,politics,0.0114598374290763,0.1228124738817098,0.8657276886892139,"'system': -0.091, 'data': -0.075, 'say': 0.064, 'output': -0.059, 'Earth': -0.052, 'make': 0.047","'system': 0.122, 'data': 0.099, 'output': 0.080, 'Earth': 0.070, 'say': -0.064, 'make': -0.052","'system': -0.027, 'data': -0.019, 'billions': -0.018, 'output': -0.017, 'chemicals': -0.015, 'Earth': -0.013","Input: Atomic Energy Commision - Hmm, they would say this.
+
+The Earth may spew alot of substances into the atmosphere, but the quality 
+of your toxic output can easily make up for the lack of quantity.  Furthermore, 
+the planet is a system of carbon, sulfur and other chemicals which have been
+acting for billions of years, we are but newcomers to the system - we must adapt
+and control in order to bring about stability.  Also, two wrongs do not make a right, 
+so continuing our practices despite overwhelming data is just ignorance in (non)action.
+
+
+Educated and open minded environmentalists do not.
+
+Output: science
+Confidence: 0.8657276886892139
+Output rationale: 'system': 0.122, 'data': 0.099, 'output': 0.080, 'Earth': 0.070, 'say': -0.064, 'make': -0.052.","Input: Atomic Energy Commision - Hmm, they would say this.
+
+The Earth may spew alot of substances into the atmosphere, but the quality 
+of your toxic output can easily make up for the lack of quantity.  Furthermore, 
+the planet is a system of carbon, sulfur and other chemicals which have been
+acting for billions of years, we are but newcomers to the system - we must adapt
+and control in order to bring about stability.  Also, two wrongs do not make a right, 
+so continuing our practices despite overwhelming data is just ignorance in (non)action.
+
+
+Educated and open minded environmentalists do not.
+
+Output: science
+Confidence: 0.8657276886892139","['system', 'data', 'output', 'Earth', 'say', 'make']","The text was classified by the model as relating to 'science'. This prediction was made with a high confidence of 86.57%. This prediction was driven by the presence of certain words and phrases in the input text. For instance, the words 'system', 'data', 'output', and 'Earth' which are commonly associated with science had a strong influence on the decision. However, the words 'say' and 'make', which appeared in the text, reduced the model's confidence slightly. The presence or absence of such words helped the model make its decision.",gpt-4,"The Support Vector Machine (SVM) model classifies the given text as related to the topic of ""science"" with a high confidence level of 0.86 (86.57%). This is due to the presence of terms and concepts related to environmental science, topics like carbon and sulfur cycles, and mentions of environmental practices. The high confidence score signifies that the model is quite certain of its prediction."
+2,"You are forced everyday to associate with people that you do not
+wish to, and there isn't even a law that makes you do it.  But 
+you do, becuase you want to go shopping, or go to work, or go to
+a public park, or go to a baseball game, etc.",leisure,0.8249520754008536,politics,0.8249520754008536,0.1490133580992499,0.0260345664998964,"'go': -0.322, 'game': -0.177, 'people': 0.174, 'baseball': -0.164, 'law': 0.163, 'public': 0.105","'go': -0.090, 'game': -0.070, 'baseball': -0.065, 'work': 0.048, 'etc': 0.034, 'makes': -0.018","'go': 0.404, 'game': 0.238, 'baseball': 0.221, 'people': -0.166, 'law': -0.163, 'public': -0.116","Input: You are forced everyday to associate with people that you do not
+wish to, and there isn't even a law that makes you do it.  But 
+you do, becuase you want to go shopping, or go to work, or go to
+a public park, or go to a baseball game, etc.
+
+Output: leisure
+Confidence: 0.8249520754008536
+Output rationale: 'go': 0.404, 'game': 0.238, 'baseball': 0.221, 'people': -0.166, 'law': -0.163, 'public': -0.116.","Input: You are forced everyday to associate with people that you do not
+wish to, and there isn't even a law that makes you do it.  But 
+you do, becuase you want to go shopping, or go to work, or go to
+a public park, or go to a baseball game, etc.
+
+Output: leisure
+Confidence: 0.8249520754008536","['go', 'game', 'baseball', 'people', 'law', 'public']","The Support Vector Machine classifies the given text as related to 'leisure'. It does so using key terms in your text that are often associated with leisure activities, such as 'go', 'game', and 'baseball'. The model is quite confident in its prediction, with a confidence level of approximately 82.5%.
+
+However, there were a few terms in your text such as 'people', 'law', and 'public' that would usually suggest a different category. These did not outweigh the 'leisure' related terms in this instance, hence the prediction of 'leisure'. 
+
+Please note that the greater the value attached to a term, the more influence it had on the model's prediction. So 'go' being the most influential, had the greatest effect on classifying the text under 'leisure'.",gpt-4,"The Support Vector Machine has processed the provided text and predicted the category as ""leisure"". This indicates that the content of your text is mainly related to leisure, activities such as shopping, visiting parks, attending baseball games. The model is pretty confident in its prediction, as the confidence score is around 82.5% which indicates high level of accuracy. This percentage is a measurement of how certain the model is with its classification."
+3,"The battery goes dead primarily becaust the floor is cold.  The temperature
+combined with self-discharge promotes sulfation which ruins the plates of 
+the battery.  I strongly suspect that the only reason the battery doesn't
+go dead as quickly on a dirt surface is because cement tends to be quite
+cooler.",leisure,0.701218313697958,science,0.701218313697958,0.0277973395334945,0.2709843467685476,"'battery': -0.083, 'discharge': -0.020, 'strongly': 0.020, 'goes': -0.019, 'plates': -0.016, 'self': 0.015","'dead': -0.144, 'go': -0.089, 'goes': -0.088, 'temperature': 0.083, 'reason': 0.056, 'suspect': 0.052","'dead': 0.129, 'goes': 0.102, 'go': 0.101, 'temperature': -0.078, 'battery': 0.068, 'reason': -0.060","Input: The battery goes dead primarily becaust the floor is cold.  The temperature
+combined with self-discharge promotes sulfation which ruins the plates of 
+the battery.  I strongly suspect that the only reason the battery doesn't
+go dead as quickly on a dirt surface is because cement tends to be quite
+cooler.
+
+Output: leisure
+Confidence: 0.701218313697958
+Output rationale: 'dead': 0.129, 'goes': 0.102, 'go': 0.101, 'temperature': -0.078, 'battery': 0.068, 'reason': -0.060.","Input: The battery goes dead primarily becaust the floor is cold.  The temperature
+combined with self-discharge promotes sulfation which ruins the plates of 
+the battery.  I strongly suspect that the only reason the battery doesn't
+go dead as quickly on a dirt surface is because cement tends to be quite
+cooler.
+
+Output: leisure
+Confidence: 0.701218313697958","['dead', 'goes', 'go', 'temperature', 'battery', 'reason']","The Support Vector Machine (SVM) model classified the given text as being related to 'leisure' activities with a moderate confidence level of approximately 0.7 out of 1. The model came to this conclusion largely based on the presence of words like 'dead', 'goes', 'go', and 'battery'. 
+
+These words are often associated with commonplace leisure activities, such as recreational vehicle use. However, it's worth noting that the presence of words like 'temperature' and 'reason', usually associated with more scientific discussions, introduced some uncertainty into the prediction, decreasing its confidence slightly.",gpt-4,"The model predicted that the subject of the input text is related to 'leisure', basing its prediction on the context and words used in the text. The confidence score of 0.70 indicates a moderate level of certainty in this categorization by the model. Nonetheless, remember that the SVM model is not perfect; it makes its best guess based on the data from the text it was trained on. Therefore, the text might still be relevant to other categories despite the model's prediction."
+4,"This is, shall we say, an overly-broad statement.  In particular, are you
+referring to the native American culture that existed in 1400, or the one
+that existed in 1800?  (Simplify things by assuming we're talking about
+the eastern US rather than the whole continent.)  Given that those were
+*radically* different cultures, which one are you referring to?
+
+
+Note that the pre-Columbian native Americans, east of the Mississippi,
+did all of these things.  (Well, maybe not ""on Sunday"", but they did
+have organized religions, not to mention cities and governments.)  If
+you are judging the native Americans by the tribal culture that existed
+in 1800, you might want to read an account of the De Soto expedition
+to find out what pre-Columbian native American culture, at least in the
+more civilized parts of the continent, was like.",politics,0.6758170326844632,science,0.1061630088888896,0.6758170326844632,0.2180199584266469,"'American': 0.200, 'statement': 0.118, 'Americans': 0.104, 'existed': -0.069, 'culture': 0.060, 'native': -0.060","'American': -0.129, 'statement': -0.075, 'Americans': -0.064, 'De': 0.060, 'things': 0.057, 'say': -0.046","'American': -0.072, 'culture': -0.062, 'statement': -0.044, 'Americans': -0.042, 'native': 0.039, 'existed': 0.031","Input: This is, shall we say, an overly-broad statement.  In particular, are you
+referring to the native American culture that existed in 1400, or the one
+that existed in 1800?  (Simplify things by assuming we're talking about
+the eastern US rather than the whole continent.)  Given that those were
+*radically* different cultures, which one are you referring to?
+
+
+Note that the pre-Columbian native Americans, east of the Mississippi,
+did all of these things.  (Well, maybe not ""on Sunday"", but they did
+have organized religions, not to mention cities and governments.)  If
+you are judging the native Americans by the tribal culture that existed
+in 1800, you might want to read an account of the De Soto expedition
+to find out what pre-Columbian native American culture, at least in the
+more civilized parts of the continent, was like.
+
+Output: politics
+Confidence: 0.6758170326844632
+Output rationale: 'American': 0.200, 'statement': 0.118, 'Americans': 0.104, 'existed': -0.069, 'culture': 0.060, 'native': -0.060.","Input: This is, shall we say, an overly-broad statement.  In particular, are you
+referring to the native American culture that existed in 1400, or the one
+that existed in 1800?  (Simplify things by assuming we're talking about
+the eastern US rather than the whole continent.)  Given that those were
+*radically* different cultures, which one are you referring to?
+
+
+Note that the pre-Columbian native Americans, east of the Mississippi,
+did all of these things.  (Well, maybe not ""on Sunday"", but they did
+have organized religions, not to mention cities and governments.)  If
+you are judging the native Americans by the tribal culture that existed
+in 1800, you might want to read an account of the De Soto expedition
+to find out what pre-Columbian native American culture, at least in the
+more civilized parts of the continent, was like.
+
+Output: politics
+Confidence: 0.6758170326844632","['American', 'statement', 'Americans', 'existed', 'culture', 'native']","The Support Vector Machine classified the input text as pertaining to 'politics' with a confidence score of approximately 0.676. The model arrived at this prediction primarily based on certain key terms and their associated weightings. For instance, the terms 'American', 'statement', and 'Americans' bear positive weightage implying they are suggestive of the 'politics' classification. Conversely, terms like 'existed' and 'native' were negatively weighted, indicating they were less indicative of the 'politics' category. Do note that the presence of certain terms doesn't guarantee a category, it's the combination and its context in use that lead the algorithm to its conclusion.",gpt-4,"The Support Vector Machine model analyzed the text you provided and categorized it as related to 'politics'. The score of 0.68 signifies that the model is moderately confident in this classification. This prediction would be made based on terms and context in the text which the model associates with the 'politics' category, like culture, societies, and references to historical events."
+5,"21 Apr 1993 10:28:02 Gillian E Runcie Writes:
+
+
+Dear Gillian
+
+That is such a wickedly cool idea; why didn't I think of it??? However, here
+in Canada the aerials (antenna) are usually near the driver or passenger areas
+and I would surely be seen......but I'll give it a try anyway.
+
+Thanks for the first truely useable piece of information I have heard in a long
+time (and you are by no means a mere female, as this way at getting back takes
+real guts to do).",science,0.5377755741801915,leisure,0.3406700762036191,0.1215543496161891,0.5377755741801915,"'Thanks': -0.097, 'Dear': 0.081, 'means': 0.059, 'antenna': -0.049, 'usually': -0.044, 'driver': -0.043","'antenna': 0.159, 'information': 0.150, 'idea': 0.122, 'Writes': -0.106, 'Canada': -0.092, 'driver': -0.088","'information': -0.145, 'driver': 0.132, 'Writes': 0.124, 'antenna': -0.119, 'idea': -0.102, 'piece': 0.092","Input: 21 Apr 1993 10:28:02 Gillian E Runcie Writes:
+
+
+Dear Gillian
+
+That is such a wickedly cool idea; why didn't I think of it??? However, here
+in Canada the aerials (antenna) are usually near the driver or passenger areas
+and I would surely be seen......but I'll give it a try anyway.
+
+Thanks for the first truely useable piece of information I have heard in a long
+time (and you are by no means a mere female, as this way at getting back takes
+real guts to do).
+
+Output: science
+Confidence: 0.5377755741801915
+Output rationale: 'antenna': 0.159, 'information': 0.150, 'idea': 0.122, 'Writes': -0.106, 'Canada': -0.092, 'driver': -0.088.","Input: 21 Apr 1993 10:28:02 Gillian E Runcie Writes:
+
+
+Dear Gillian
+
+That is such a wickedly cool idea; why didn't I think of it??? However, here
+in Canada the aerials (antenna) are usually near the driver or passenger areas
+and I would surely be seen......but I'll give it a try anyway.
+
+Thanks for the first truely useable piece of information I have heard in a long
+time (and you are by no means a mere female, as this way at getting back takes
+real guts to do).
+
+Output: science
+Confidence: 0.5377755741801915","['antenna', 'information', 'idea', 'Writes', 'Canada', 'driver']","The model has categorized your text as related to ""science"" with a confidence level of approximately 54%. This decision heavily relied on the presence of certain keywords in your text. Words like ""antenna"", ""information"", and ""idea"" positively influenced the model's choice towards ""science"", while words like ""Writes"", ""Canada"", and ""driver"" led the model to mildly question its decision - i.e., these words were less typical in a ""science"" context.",gpt-4,"The SVM model has analyzed your text and sorted it into the category of 'science'. This is mainly because the context of your text involves discussing a technical concept (i.e., antenna placement). Keep in mind that the model's confidence in its classification is around 54%. So, while the model leans towards 'science', this prediction isn't entirely solid. There is still a significant chance that the text could fall under other categories."
+6,"Look for information about 567 tone decoder chip. It is an easy to use
+chip for detecting sound of certain frequency. You need only one
+567 and some other componets for each led you want to control.
+The chip can take the voltage levels, which the casette gives.
+Radio Shack Archer Semiconductor Reference Guide gives good information
+how to use that chip. It should be simplest way to go. The chip costs
+something like 1-2 $.",science,0.9999999489738388,science,3.153932052087615e-08,1.948684067955686e-08,0.9999999489738388,"'chip': -0.008, 'information': -0.004, 'use': -0.003, 'sound': -0.003, 'voltage': -0.002, 'Radio': -0.002","'chip': 0.028, 'information': 0.018, 'use': 0.015, 'voltage': 0.011, 'Radio': 0.010, 'frequency': 0.008","'chip': -0.020, 'information': -0.014, 'use': -0.012, 'voltage': -0.008, 'Radio': -0.007, 'frequency': -0.006","Input: Look for information about 567 tone decoder chip. It is an easy to use
+chip for detecting sound of certain frequency. You need only one
+567 and some other componets for each led you want to control.
+The chip can take the voltage levels, which the casette gives.
+Radio Shack Archer Semiconductor Reference Guide gives good information
+how to use that chip. It should be simplest way to go. The chip costs
+something like 1-2 $.
+
+Output: science
+Confidence: 0.9999999489738388
+Output rationale: 'chip': 0.028, 'information': 0.018, 'use': 0.015, 'voltage': 0.011, 'Radio': 0.010, 'frequency': 0.008.","Input: Look for information about 567 tone decoder chip. It is an easy to use
+chip for detecting sound of certain frequency. You need only one
+567 and some other componets for each led you want to control.
+The chip can take the voltage levels, which the casette gives.
+Radio Shack Archer Semiconductor Reference Guide gives good information
+how to use that chip. It should be simplest way to go. The chip costs
+something like 1-2 $.
+
+Output: science
+Confidence: 0.9999999489738388","['chip', 'information', 'use', 'voltage', 'Radio', 'frequency']","The text provided talks about a 567 tone decoder chip, its functionality, and how to use it. The content discusses scientific elements including voltage and frequency. It also mentions the term ""chip"" which is usually associated with electronics or technology - fields within science. All of these aspects of the text have led the model to confidently categorize it under the ""science"" category with a confidence score very close to 1, indicating high certainty in its prediction.",gpt-4,"The Support Vector Machine (SVM) model took the provided text and classified it as related to 'science'. This decision is based on the SVM's analysis of the text, which discussed specific technological components, such as a 567 tone decoder chip, as well as references to electrical engineering concepts. The model displays a confidence level of nearly 100%, indicating it is almost certain that the provided text falls under the 'science' category."
+7,"Jason - I've heard the people who are talking about this dismissed as
+conspiracy nuts, but nobody seems to be talking about a conspiracy, at
+least at the beginning.  There were a lot of bad decisions that went into
+this tragedy, and some people may now be taking some serious evasive
+action to avoid being held responsible for the unexpected results of
+those bad decisions.  Actually, the only ones I see that are tied into
+a conspiracy theory are the ones raving about deranged cultists with
+stockpiles of weapons and suicide pacts.
+
+
+
+I think there are a lot of us that have been following this pretty closely
+from the beginning, and we woud probably agree that this tragedy was more
+the result of stupidity than malice.",politics,0.8402650390965078,politics,0.0234963032400899,0.8402650390965078,0.1362386576634024,"'people': 0.179, 'weapons': 0.170, 'action': 0.067, 'may': -0.064, 'agree': 0.062, 'talking': 0.060","'weapons': -0.140, 'people': -0.120, 'agree': -0.063, 'action': -0.062, 'may': 0.053, 'beginning': 0.052","'people': -0.067, 'weapons': -0.039, 'talking': -0.021, 'theory': -0.018, 'conspiracy': -0.016, 'bad': 0.015","Input: Jason - I've heard the people who are talking about this dismissed as
+conspiracy nuts, but nobody seems to be talking about a conspiracy, at
+least at the beginning.  There were a lot of bad decisions that went into
+this tragedy, and some people may now be taking some serious evasive
+action to avoid being held responsible for the unexpected results of
+those bad decisions.  Actually, the only ones I see that are tied into
+a conspiracy theory are the ones raving about deranged cultists with
+stockpiles of weapons and suicide pacts.
+
+
+
+I think there are a lot of us that have been following this pretty closely
+from the beginning, and we woud probably agree that this tragedy was more
+the result of stupidity than malice.
+
+Output: politics
+Confidence: 0.8402650390965078
+Output rationale: 'people': 0.179, 'weapons': 0.170, 'action': 0.067, 'may': -0.064, 'agree': 0.062, 'talking': 0.060.","Input: Jason - I've heard the people who are talking about this dismissed as
+conspiracy nuts, but nobody seems to be talking about a conspiracy, at
+least at the beginning.  There were a lot of bad decisions that went into
+this tragedy, and some people may now be taking some serious evasive
+action to avoid being held responsible for the unexpected results of
+those bad decisions.  Actually, the only ones I see that are tied into
+a conspiracy theory are the ones raving about deranged cultists with
+stockpiles of weapons and suicide pacts.
+
+
+
+I think there are a lot of us that have been following this pretty closely
+from the beginning, and we woud probably agree that this tragedy was more
+the result of stupidity than malice.
+
+Output: politics
+Confidence: 0.8402650390965078","['people', 'weapons', 'action', 'may', 'agree', 'talking']","The Support Vector Machine (SVM) model classifies the input text as 'politics' with a high confidence of 84%. The words 'people', 'weapons', and 'action' strongly influenced this classification as they frequently appear in political discussions. On the contrary, the presence of the word 'may' slightly argued against this classification. However, it wasn't strong enough to shift the outcome. Other words like 'agree' and 'talking' also increased the model's belief that the text is about 'politics'.",gpt-4,"The Support Vector Machine (SVM) model analyzed your given text and classified it into the category of 'politics'. The confidence score is approximately 0.84, suggesting that the model is quite confident in this assignment. The model likely reached this prediction based on the presence of words and phrases in the text that often appear in political conversations, such as 'conspiracy', 'bad decisions', 'responsible', and 'tragedy'."
+8,"The first few times I pillioned someone whose safety was a great concern to
+me (as opposed to brothers, etc.), I almost got us both killed on several
+occasions.
+
+I was surprised to discover that it is much safer to just drive than to
+distract yourself by trying to be unusually cautious and concerned.  Abruptly
+adopting a novel set of thought patterns and riding strategies while piloting
+a bike is just asking for trouble.
+
+
+
+--",leisure,0.8314265069268402,leisure,0.8314265069268402,0.0929704239616565,0.0756030691115032,"'bike': -0.118, 'killed': 0.097, 'riding': -0.056, 'got': -0.043, 'safer': 0.039, 'drive': -0.034","'bike': -0.159, 'riding': -0.082, 'occasions': 0.037, 'etc': 0.035, 'drive': -0.026, 'great': -0.026","'bike': 0.271, 'riding': 0.128, 'killed': -0.088, 'drive': 0.053, 'several': -0.051, 'great': 0.049","Input: The first few times I pillioned someone whose safety was a great concern to
+me (as opposed to brothers, etc.), I almost got us both killed on several
+occasions.
+
+I was surprised to discover that it is much safer to just drive than to
+distract yourself by trying to be unusually cautious and concerned.  Abruptly
+adopting a novel set of thought patterns and riding strategies while piloting
+a bike is just asking for trouble.
+
+
+
+--
+
+Output: leisure
+Confidence: 0.8314265069268402
+Output rationale: 'bike': 0.271, 'riding': 0.128, 'killed': -0.088, 'drive': 0.053, 'several': -0.051, 'great': 0.049.","Input: The first few times I pillioned someone whose safety was a great concern to
+me (as opposed to brothers, etc.), I almost got us both killed on several
+occasions.
+
+I was surprised to discover that it is much safer to just drive than to
+distract yourself by trying to be unusually cautious and concerned.  Abruptly
+adopting a novel set of thought patterns and riding strategies while piloting
+a bike is just asking for trouble.
+
+
+
+--
+
+Output: leisure
+Confidence: 0.8314265069268402","['bike', 'riding', 'killed', 'drive', 'several', 'great']","The model predicted the category of your text to be 'leisure' with a confidence score of 0.83, which is quite high. It made this prediction considering certain words in your text. Words like 'bike' and 'riding' contributed positively to this categorization, meaning that these words are commonly associated with leisure activities.
+
+On the contrary, the word 'killed' negatively influences the prediction, indicating this word is not generally associated with leisure. Meanwhile, words like 'drive', 'several', and 'great' have a small positive influence on the prediction towards the leisure category.",gpt-4,"The Support Vector Machine (SVM) model has analyzed your text and evaluated it based on patterns and features. It has classified the text as belonging to the ""leisure"" category, perhaps due to the mention of recreational activities like bike riding. The confidence score is quite high, at approximately 83.1%, suggesting the model is quite sure about its prediction."
+9,"There are several things in ITAR which have never been tested in court. 
+The concensus appears to be:
+
+You could be arrested as an international arms trafficker.  (You could,
+regardless of the state of the law, but there are some paragraphs which
+suggest you would be violating the law.)
+
+If it goes to court, the ITARs could be thrown out is incompatible with the
+First amendment; or the court could rule that ""software"" is ""technical
+data"" not subject to the ITARs; or the court could rule that the
+phrase ""publicly available"" as defined in the ITARs would apply,
+making it only subject to requiring a general export license; or, you could
+be prosecuted successfully for arms trafficing or espionage.  General
+concensus among lawyers who have read the ITARs, is that one of the first
+two would occur.",science,0.755998018501831,science,0.023073221630896,0.2209287598672729,0.755998018501831,"'could': -0.224, 'law': 0.131, 'state': 0.098, 'data': -0.056, 'technical': -0.049, 'software': -0.047","'could': 0.253, 'law': -0.103, 'state': -0.085, 'data': 0.072, 'software': 0.064, 'technical': 0.059","'ITARs': 0.034, 'law': -0.031, 'could': -0.031, 'would': -0.027, 'amendment': -0.022, 'data': -0.019","Input: There are several things in ITAR which have never been tested in court. 
+The concensus appears to be:
+
+You could be arrested as an international arms trafficker.  (You could,
+regardless of the state of the law, but there are some paragraphs which
+suggest you would be violating the law.)
+
+If it goes to court, the ITARs could be thrown out is incompatible with the
+First amendment; or the court could rule that ""software"" is ""technical
+data"" not subject to the ITARs; or the court could rule that the
+phrase ""publicly available"" as defined in the ITARs would apply,
+making it only subject to requiring a general export license; or, you could
+be prosecuted successfully for arms trafficing or espionage.  General
+concensus among lawyers who have read the ITARs, is that one of the first
+two would occur.
+
+Output: science
+Confidence: 0.755998018501831
+Output rationale: 'could': 0.253, 'law': -0.103, 'state': -0.085, 'data': 0.072, 'software': 0.064, 'technical': 0.059.","Input: There are several things in ITAR which have never been tested in court. 
+The concensus appears to be:
+
+You could be arrested as an international arms trafficker.  (You could,
+regardless of the state of the law, but there are some paragraphs which
+suggest you would be violating the law.)
+
+If it goes to court, the ITARs could be thrown out is incompatible with the
+First amendment; or the court could rule that ""software"" is ""technical
+data"" not subject to the ITARs; or the court could rule that the
+phrase ""publicly available"" as defined in the ITARs would apply,
+making it only subject to requiring a general export license; or, you could
+be prosecuted successfully for arms trafficing or espionage.  General
+concensus among lawyers who have read the ITARs, is that one of the first
+two would occur.
+
+Output: science
+Confidence: 0.755998018501831","['could', 'law', 'state', 'data', 'software', 'technical']","The Support Vector Machine model predicted that the input text is related to 'science' with a confidence score of 0.75 (out of 1). This high confidence score indicates that the model is fairly certain of its prediction.
+
+The text's references to ""could"", ""data"", ""software"" and ""technical"" strongly supported the model's assessment that the text pertains to 'science'. However, the phrases ""law"" and ""state"" somewhat countered this, which might have reduced the confidence score a bit. Overall, the model found the text's discussion of ITAR, software, and technical data enough evidence to class this text as pertaining to 'science'.",gpt-4,"The Support Vector Machine has evaluated your text and classified it under the category of ""science"". The model seems to be fairly confident in its classification, with a confidence score of 0.755998018501831, indicating that it's more likely the subject dealt with is scientific. The mention of ITAR regulations, technical data, and other related terms likely influenced this classification."
+10,"I'd like to conduct a small survey relating to Americans' views on economics and on Japan.
+The survey consists of just two questions.  I ask that only Americans respond; I've posted
+it worldwide, however, because I think others will be interested in the results.  I'll
+tabulate the results and post them with some commentary.  Please respond by email to
+""borden@m5.harvard.edu"".  Here are the questions:
+
+1) As an American, would you prefer that in a given year, a) our economy grows by one
+   percent, and Japan's economy also grows by one percent, or b) our economy grows by
+   two percent while Japan's economy grows by three percent?
+
+2) On what newsgroup did you read this survey?
+
+Thank you for your participation.",politics,0.6189717246061719,politics,0.1402157915180431,0.6189717246061719,0.2408124838757852,"'economy': 0.232, 'grows': -0.141, 'survey': 0.131, 'Americans': 0.084, 'American': 0.075, 'Please': -0.060","'economy': -0.140, 'survey': -0.123, 'grows': 0.111, 'results': 0.079, 'Americans': -0.051, 'American': -0.048","'economy': -0.094, 'year': 0.036, 'Americans': -0.036, 'results': -0.034, 'American': -0.030, 'grows': 0.027","Input: I'd like to conduct a small survey relating to Americans' views on economics and on Japan.
+The survey consists of just two questions.  I ask that only Americans respond; I've posted
+it worldwide, however, because I think others will be interested in the results.  I'll
+tabulate the results and post them with some commentary.  Please respond by email to
+""borden@m5.harvard.edu"".  Here are the questions:
+
+1) As an American, would you prefer that in a given year, a) our economy grows by one
+   percent, and Japan's economy also grows by one percent, or b) our economy grows by
+   two percent while Japan's economy grows by three percent?
+
+2) On what newsgroup did you read this survey?
+
+Thank you for your participation.
+
+Output: politics
+Confidence: 0.6189717246061719
+Output rationale: 'economy': 0.232, 'grows': -0.141, 'survey': 0.131, 'Americans': 0.084, 'American': 0.075, 'Please': -0.060.","Input: I'd like to conduct a small survey relating to Americans' views on economics and on Japan.
+The survey consists of just two questions.  I ask that only Americans respond; I've posted
+it worldwide, however, because I think others will be interested in the results.  I'll
+tabulate the results and post them with some commentary.  Please respond by email to
+""borden@m5.harvard.edu"".  Here are the questions:
+
+1) As an American, would you prefer that in a given year, a) our economy grows by one
+   percent, and Japan's economy also grows by one percent, or b) our economy grows by
+   two percent while Japan's economy grows by three percent?
+
+2) On what newsgroup did you read this survey?
+
+Thank you for your participation.
+
+Output: politics
+Confidence: 0.6189717246061719","['economy', 'grows', 'survey', 'Americans', 'American', 'Please']","The Support Vector Machine model predicts that the given text belongs to the category of 'politics' with a confidence level of approximately 0.62. This means the model is somewhat confident about its prediction.
+
+Key concepts and words in the text that influenced this prediction include 'economy', 'survey', 'Americans', and 'American'. These terms are frequently associated with political discussions, particularly when it comes to economic policy and public opinions. 
+
+Words like 'grows' and 'Please', on the other hand, made the model less confident about classifying the text as 'politics'. It's possible these terms are more commonly found in other types of discussions, such as 'leisure' or 'science', resulting in these words working against its assignment to 'politics'. 
+
+Present in the text, however, the balance of related terms leaned more towards 'politics', resulting in its classification as such.",gpt-4,"The Support Vector Machine (SVM) analyzed the content of the text you provided and made a prediction about its category. According to the SVM, this text most likely falls under the ""politics"" category with a confidence score of 0.62 (on a scale from 0 to 1), suggesting moderate confidence in the prediction. The model probably made this prediction based on the discussion of economics and international relations in the text, which are common topics in the politics category."
+11,"Wait a minute.  If I read the rules right. A stike is ANY portion of the ball 
+over ANY portion of the plate.
+
+
+Given that the ball is ~ 2.9 """" in diameter.  This sez that the zone width
+is ~= 17 + (2 * 2.9)  or 22.8 """" . While this is still less than the 23 ""
+number given.  I can forgive any UMP for misjudging .2"" on an object moving
+at 85 to 100 miles per hour many times not in a straight line.
+
+I think the Umpires Union has a great grasp of the rules!!!",leisure,0.5378322594855802,leisure,0.5378322594855802,0.1117293776542755,0.3504383628601442,"'ball': -0.095, 'many': 0.036, 'Union': 0.031, 'Umpires': -0.030, 'Wait': 0.028, 'zone': -0.028","'object': 0.105, 'great': -0.078, 'rules': -0.078, 'ball': -0.077, 'number': 0.070, 'line': 0.065","'ball': 0.166, 'great': 0.095, 'number': -0.095, 'object': -0.091, 'UMP': 0.079, 'many': -0.066","Input: Wait a minute.  If I read the rules right. A stike is ANY portion of the ball 
+over ANY portion of the plate.
+
+
+Given that the ball is ~ 2.9 """" in diameter.  This sez that the zone width
+is ~= 17 + (2 * 2.9)  or 22.8 """" . While this is still less than the 23 ""
+number given.  I can forgive any UMP for misjudging .2"" on an object moving
+at 85 to 100 miles per hour many times not in a straight line.
+
+I think the Umpires Union has a great grasp of the rules!!!
+
+Output: leisure
+Confidence: 0.5378322594855802
+Output rationale: 'ball': 0.166, 'great': 0.095, 'number': -0.095, 'object': -0.091, 'UMP': 0.079, 'many': -0.066.","Input: Wait a minute.  If I read the rules right. A stike is ANY portion of the ball 
+over ANY portion of the plate.
+
+
+Given that the ball is ~ 2.9 """" in diameter.  This sez that the zone width
+is ~= 17 + (2 * 2.9)  or 22.8 """" . While this is still less than the 23 ""
+number given.  I can forgive any UMP for misjudging .2"" on an object moving
+at 85 to 100 miles per hour many times not in a straight line.
+
+I think the Umpires Union has a great grasp of the rules!!!
+
+Output: leisure
+Confidence: 0.5378322594855802","['ball', 'great', 'number', 'object', 'UMP', 'many']","The model has classified your input text as related to 'leisure' with a confidence of approximately 53.8%. This decision was influenced heavily by mentions of 'ball' and 'UMP', indicating a sport context, despite the presence of some terms like 'number' and 'object' which could apply to other topics as well. The term 'great' also contributed positively towards the output.",gpt-4,The Support Vector Machine (SVM) has classified the given text as 'leisure' with a confidence score of 0.5378 which is approximately 54%. This means that the SVM is over half sure that the topics and terms mentioned in this text point towards a leisurely discussion more than politics or science. This prediction is moderate in confidence.

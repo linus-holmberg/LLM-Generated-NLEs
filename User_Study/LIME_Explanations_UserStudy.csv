@@ -1,0 +1,143 @@
+id,text,pred,pred_prob,true_label,leisure_prob,leisure_rationales,politics_prob,politics_rationales,science_prob,science_rationales
+0,"Which Western states have laws that charge sales tax on the difference between
+a new car's price and the trade-in's value?  I know California charges you on 
+the full value of the new vehicle regardless of trade-in.
+
+If you are a California resident, is it legal to buy a car in a state other than
+California without also paying California sales tax?  How does California 
+enforce any law that requires you to also pay California sales tax (on top of 
+the out-of-state tax)?",politics,0.941,leisure,0.054739858220058404,"[('tax', -0.5379130441125402), ('car', 0.19716759339132936), ('sales', 0.08017324783383979), ('state', -0.07691102630197232), ('states', -0.07329731891849688), ('laws', -0.061700917220480156)]",0.9413505660283291,"[('tax', 0.5800937658535317), ('car', -0.17182853849533705), ('state', 0.08697271574198738), ('states', 0.07835766772147336), ('sales', -0.06795457751160035), ('laws', 0.064272353243539)]",0.003909575751612393,"[('tax', -0.043359882675217745), ('car', -0.02645275878742271), ('sales', -0.013134997290997045), ('state', -0.01105099940404338), ('value', 0.007075826907557002), ('states', -0.006028561213699534)]"
+1,"Atomic Energy Commision - Hmm, they would say this.
+
+The Earth may spew alot of substances into the atmosphere, but the quality 
+of your toxic output can easily make up for the lack of quantity.  Furthermore, 
+the planet is a system of carbon, sulfur and other chemicals which have been
+acting for billions of years, we are but newcomers to the system - we must adapt
+and control in order to bring about stability.  Also, two wrongs do not make a right, 
+so continuing our practices despite overwhelming data is just ignorance in (non)action.
+
+
+Educated and open minded environmentalists do not.",science,0.867,politics,0.011681586230566436,"[('system', -0.027207309513665862), ('data', -0.019243177619922953), ('billions', -0.018369243941981056), ('output', -0.017228075865187938), ('chemicals', -0.014781444393684137), ('Earth', -0.013697357370729463)]",0.12152016295798881,"[('system', -0.09129390705569848), ('data', -0.07527200810491794), ('say', 0.06385863341508048), ('output', -0.05883800148541027), ('Earth', -0.05208692224694342), ('make', 0.046794848861545994)]",0.8667982508114448,"[('system', 0.1227682122027225), ('data', 0.0990504356420584), ('output', 0.08080433186023671), ('Earth', 0.07029018392657906), ('say', -0.06413572212858869), ('make', -0.052082307121201786)]"
+2,"You are forced everyday to associate with people that you do not
+wish to, and there isn't even a law that makes you do it.  But 
+you do, becuase you want to go shopping, or go to work, or go to
+a public park, or go to a baseball game, etc.",leisure,0.827,politics,0.827385735861775,"[('go', 0.40255239396450343), ('game', 0.2369874884752497), ('baseball', 0.22032487938747233), ('people', -0.16490763723787435), ('law', -0.16101939583285033), ('public', -0.11500199122592726)]",0.14696854187597277,"[('go', -0.3209207469932198), ('game', -0.17651300274542503), ('people', 0.17278063184120143), ('baseball', -0.16395177449770906), ('law', 0.16206013007127307), ('public', 0.10416341994713699)]",0.025645722262252254,"[('go', -0.08954671406241241), ('game', -0.06957542650912206), ('baseball', -0.06425275459319198), ('work', 0.047400376285674), ('etc', 0.034076207422440524), ('makes', -0.0183526717983763)]"
+3,"The battery goes dead primarily becaust the floor is cold.  The temperature
+combined with self-discharge promotes sulfation which ruins the plates of 
+the battery.  I strongly suspect that the only reason the battery doesn't
+go dead as quickly on a dirt surface is because cement tends to be quite
+cooler.",leisure,0.702,science,0.7017672560039783,"[('dead', 0.1288827958279145), ('goes', 0.10136210194826482), ('go', 0.10090639962288044), ('temperature', -0.07802405951579837), ('battery', 0.06693379210138532), ('reason', -0.05966860670057692)]",0.027474856892192315,"[('battery', -0.08249860565635009), ('discharge', -0.020150321985865974), ('strongly', 0.01975575460444958), ('goes', -0.018644336045366975), ('plates', -0.01620117528358182), ('self', 0.014817627490491625)]",0.2707578871038295,"[('dead', -0.1441138735845848), ('go', -0.08926024170676153), ('goes', -0.08841254700632642), ('temperature', 0.08291740157424335), ('reason', 0.056348257667977936), ('suspect', 0.051672638275697104)]"
+4,"This is, shall we say, an overly-broad statement.  In particular, are you
+referring to the native American culture that existed in 1400, or the one
+that existed in 1800?  (Simplify things by assuming we're talking about
+the eastern US rather than the whole continent.)  Given that those were
+*radically* different cultures, which one are you referring to?
+
+
+Note that the pre-Columbian native Americans, east of the Mississippi,
+did all of these things.  (Well, maybe not ""on Sunday"", but they did
+have organized religions, not to mention cities and governments.)  If
+you are judging the native Americans by the tribal culture that existed
+in 1800, you might want to read an account of the De Soto expedition
+to find out what pre-Columbian native American culture, at least in the
+more civilized parts of the continent, was like.",politics,0.676,science,0.10742540615473209,"[('American', -0.0720713808375197), ('culture', -0.06302332113313436), ('statement', -0.04441345294479984), ('Americans', -0.04173023785225163), ('native', 0.03904671107507698), ('existed', 0.03159047500301374)]",0.6764464314549223,"[('American', 0.20043625481534266), ('statement', 0.11873479628958486), ('Americans', 0.10455675262511722), ('existed', -0.06918872376357825), ('culture', 0.06092406806618491), ('native', -0.06015257568438588)]",0.21612816239034568,"[('American', -0.12981429976594558), ('statement', -0.07566897093073949), ('Americans', -0.06447732049686455), ('De', 0.05942998106217607), ('things', 0.05690364908742582), ('say', -0.04561708719136386)]"
+5,"21 Apr 1993 10:28:02 Gillian E Runcie Writes:
+
+
+Dear Gillian
+
+That is such a wickedly cool idea; why didn't I think of it??? However, here
+in Canada the aerials (antenna) are usually near the driver or passenger areas
+and I would surely be seen......but I'll give it a try anyway.
+
+Thanks for the first truely useable piece of information I have heard in a long
+time (and you are by no means a mere female, as this way at getting back takes
+real guts to do).",science,0.538,leisure,0.34162786487885305,"[('information', -0.14572190036107893), ('driver', 0.1319312026153228), ('Writes', 0.12400645940520331), ('antenna', -0.12009877432332886), ('idea', -0.10237354383454454), ('piece', 0.09240745906789563)]",0.12020592518744808,"[('Thanks', -0.0968994980311168), ('Dear', 0.0809640881599366), ('means', 0.05835119955576187), ('antenna', -0.04897318728029217), ('usually', -0.043326421059565634), ('driver', -0.04324440379740431)]",0.538166209933699,"[('antenna', 0.1595906831960426), ('information', 0.15055171457117814), ('idea', 0.12195301190700694), ('Writes', -0.10591165831940116), ('Canada', -0.0917133222371497), ('driver', -0.08770673917869701)]"
+6,"Look for information about 567 tone decoder chip. It is an easy to use
+chip for detecting sound of certain frequency. You need only one
+567 and some other componets for each led you want to control.
+The chip can take the voltage levels, which the casette gives.
+Radio Shack Archer Semiconductor Reference Guide gives good information
+how to use that chip. It should be simplest way to go. The chip costs
+something like 1-2 $.",science,1.0,science,2.9141518188724793e-08,"[('chip', -0.019577032516693467), ('information', -0.014127007488953465), ('use', -0.011823904875841756), ('voltage', -0.00818669298096613), ('Radio', -0.007331567282883397), ('frequency', -0.006225049386887759)]",1.7941603620383628e-08,"[('chip', -0.008221674146436472), ('information', -0.0034770425620894137), ('use', -0.0033676195187087982), ('sound', -0.0027464908626633855), ('voltage', -0.0024376987857728186), ('Radio', -0.0024266013317488133)]",0.9999999529168783,"[('chip', 0.027984301134934633), ('information', 0.01760174974101783), ('use', 0.015200474866064493), ('voltage', 0.01064749654274913), ('Radio', 0.009934888803237648), ('frequency', 0.008449570231798076)]"
+7,"Jason - I've heard the people who are talking about this dismissed as
+conspiracy nuts, but nobody seems to be talking about a conspiracy, at
+least at the beginning.  There were a lot of bad decisions that went into
+this tragedy, and some people may now be taking some serious evasive
+action to avoid being held responsible for the unexpected results of
+those bad decisions.  Actually, the only ones I see that are tied into
+a conspiracy theory are the ones raving about deranged cultists with
+stockpiles of weapons and suicide pacts.
+
+
+
+I think there are a lot of us that have been following this pretty closely
+from the beginning, and we woud probably agree that this tragedy was more
+the result of stupidity than malice.",politics,0.842,politics,0.024234326803255973,"[('people', -0.06898711662852175), ('weapons', -0.03932474547755347), ('talking', -0.021788715422333804), ('theory', -0.01815012626854723), ('seems', -0.016125317229886277), ('bad', 0.015756381468887592)]",0.8417319018841408,"[('people', 0.18040905367719637), ('weapons', 0.17041061465358975), ('action', 0.06696807165745138), ('may', -0.06415357482301187), ('agree', 0.0622666128594587), ('talking', 0.06065007543250656)]",0.13403377131260327,"[('weapons', -0.14063583402707872), ('people', -0.12067233844192514), ('agree', -0.06291072168533858), ('action', -0.06179634410939481), ('may', 0.052573952199125154), ('beginning', 0.05169116330720797)]"
+8,"The first few times I pillioned someone whose safety was a great concern to
+me (as opposed to brothers, etc.), I almost got us both killed on several
+occasions.
+
+I was surprised to discover that it is much safer to just drive than to
+distract yourself by trying to be unusually cautious and concerned.  Abruptly
+adopting a novel set of thought patterns and riding strategies while piloting
+a bike is just asking for trouble.
+
+
+
+--",leisure,0.833,leisure,0.8327249869960109,"[('bike', 0.2696015955311002), ('riding', 0.12757183752266787), ('killed', -0.08639636782089989), ('drive', 0.052883678533710864), ('several', -0.05089092246031373), ('great', 0.04846861858507565)]",0.09197193171588262,"[('bike', -0.11671688075863045), ('killed', 0.09626376983886661), ('riding', -0.055427765117631755), ('got', -0.04255289726388178), ('safer', 0.038333832363082215), ('drive', -0.03369242741950844)]",0.07530308128810674,"[('bike', -0.15844087480580046), ('riding', -0.08221569009528543), ('occasions', 0.036854083233421236), ('etc', 0.0347225094003634), ('drive', -0.026318973355905124), ('great', -0.025623629500711488)]"
+9,"There are several things in ITAR which have never been tested in court. 
+The concensus appears to be:
+
+You could be arrested as an international arms trafficker.  (You could,
+regardless of the state of the law, but there are some paragraphs which
+suggest you would be violating the law.)
+
+If it goes to court, the ITARs could be thrown out is incompatible with the
+First amendment; or the court could rule that ""software"" is ""technical
+data"" not subject to the ITARs; or the court could rule that the
+phrase ""publicly available"" as defined in the ITARs would apply,
+making it only subject to requiring a general export license; or, you could
+be prosecuted successfully for arms trafficing or espionage.  General
+concensus among lawyers who have read the ITARs, is that one of the first
+two would occur.",science,0.757,science,0.02325480176262853,"[('ITARs', 0.03418397222420294), ('law', -0.03150517682312416), ('could', -0.03132622978658007), ('would', -0.027511412792724694), ('amendment', -0.022042115057029396), ('data', -0.019449804410037335)]",0.21996469136165284,"[('could', -0.22477747677319418), ('law', 0.13170749909918553), ('state', 0.09847604820363987), ('data', -0.056262736811055286), ('technical', -0.04902930616720134), ('software', -0.047360752275432134)]",0.7567805068757187,"[('could', 0.25417950791708044), ('law', -0.10364085805771713), ('state', -0.0852863422685896), ('data', 0.07204307117692765), ('software', 0.06430597341892309), ('technical', 0.058862646800207925)]"
+10,"I'd like to conduct a small survey relating to Americans' views on economics and on Japan.
+The survey consists of just two questions.  I ask that only Americans respond; I've posted
+it worldwide, however, because I think others will be interested in the results.  I'll
+tabulate the results and post them with some commentary.  Please respond by email to
+""borden@m5.harvard.edu"".  Here are the questions:
+
+1) As an American, would you prefer that in a given year, a) our economy grows by one
+   percent, and Japan's economy also grows by one percent, or b) our economy grows by
+   two percent while Japan's economy grows by three percent?
+
+2) On what newsgroup did you read this survey?
+
+Thank you for your participation.",politics,0.617,politics,0.14333654310266927,"[('economy', -0.09392333980947506), ('year', 0.03656226262457523), ('Americans', -0.03538630658010234), ('results', -0.03507166325939297), ('American', -0.030298368650462485), ('grows', 0.02703628203793129)]",0.61738442402255,"[('economy', 0.23262882716779582), ('grows', -0.1410365013850116), ('survey', 0.13040751922920787), ('Americans', 0.08391907344751072), ('American', 0.07477710747608664), ('Please', -0.060430190214548464)]",0.23927903287478078,"[('economy', -0.1407255565545525), ('survey', -0.12298362075298887), ('grows', 0.11071083066481903), ('results', 0.07898532812630402), ('Americans', -0.05116201834322926), ('American', -0.048602987001531386)]"
+11,"Wait a minute.  If I read the rules right. A stike is ANY portion of the ball 
+over ANY portion of the plate.
+
+
+Given that the ball is ~ 2.9 """" in diameter.  This sez that the zone width
+is ~= 17 + (2 * 2.9)  or 22.8 """" . While this is still less than the 23 ""
+number given.  I can forgive any UMP for misjudging .2"" on an object moving
+at 85 to 100 miles per hour many times not in a straight line.
+
+I think the Umpires Union has a great grasp of the rules!!!",leisure,0.539,leisure,0.5392377467310044,"[('ball', 0.16534551031934733), ('great', 0.09520308646963246), ('number', -0.09480029027646351), ('object', -0.09119672639572238), ('UMP', 0.07910517356843816), ('many', -0.06599254008180394)]",0.11039365165780378,"[('ball', -0.0946049115491217), ('many', 0.03533645644822101), ('Union', 0.030855047096387884), ('Umpires', -0.03013673270175868), ('Wait', 0.028019583941535992), ('zone', -0.027380582185105987)]",0.35036860161119165,"[('object', 0.10500029490773105), ('great', -0.07812929648560503), ('rules', -0.07786185394305609), ('ball', -0.07753075049923072), ('number', 0.07007917786825221), ('line', 0.0655010139328747)]"
+12,"I guess that nobody noticed that the calls during the world series (and, in
+fact all year) have been pretty much consistently CORRECT.  Remember: the rule
+says it's a strike if ANY PART of the ball passes through the strike zone.
+
+I would certainly agree that  high strikes are not called (who could argue
+this point?) but all in all I think in and out is called pretty well.",leisure,0.615,leisure,0.6150823789886947,"[('pretty', 0.16600097324829105), ('year', 0.12373244306613994), ('called', -0.1171021388741605), ('ball', 0.10454947449518981), ('fact', -0.08832929112193832), ('would', -0.07662632422224276)]",0.26437574216067955,"[('pretty', -0.16646508843622), ('agree', 0.10497381966940497), ('ball', -0.09082024775643445), ('fact', 0.08810795807020456), ('point', 0.08778219539560204), ('year', -0.06759426338639463)]",0.12054187885062564,"[('called', 0.0622038659000571), ('well', -0.05946442191015049), ('agree', -0.05809276267745661), ('says', -0.05787344222839495), ('rule', -0.05509229710459274), ('could', 0.04546121247724041)]"
+13,"His performance at the plate may well be from the shoulder injury
+received when he ran into the wall making a catch in the Cincy series.
+It may also be him pressing a little.
+
+As for the baserunning, it does not appear to be just Lankford.
+Dent made the bad call sending Lankford in the Sunday night game
+against Cincy - but everyone had a bad time against the Dodger's catcher.
+
+
+Good question.  At least it doesn't appear that we are seeing the
+same Zeile :-)",leisure,0.892,leisure,0.8920189758310342,"[('game', 0.1697086484738081), ('performance', 0.052699603754431286), ('Cincy', -0.05147744970728286), ('bad', 0.03986987761304319), ('injury', 0.03671059675262824), ('wall', -0.029999700563351037)]",0.023615227695326695,"[('game', -0.03740818216545449), ('may', -0.020247305746201167), ('little', -0.019185876840495435), ('everyone', 0.017053276077925183), ('performance', -0.016359568460163593), ('appear', 0.010875864422474709)]",0.08436579647363936,"[('game', -0.13330282501836663), ('Cincy', 0.04323123788812116), ('may', 0.03660751002490021), ('performance', -0.03577497323787198), ('well', -0.03353128995433899), ('bad', -0.032717870155538425)]"

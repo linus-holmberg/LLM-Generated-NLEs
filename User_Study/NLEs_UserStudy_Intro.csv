@@ -1,0 +1,62 @@
+id;text;pred;pred_prob;true_label;leisure_prob;politics_prob;science_prob;formatted_politics_rationales;formatted_science_rationales;formatted_leisure_rationales;prompt;prompt_no_rationale;pred_rationales_words;short_NLE_with_rationale;GPT-model;short_NLE_no_rationale
+0;"I guess that nobody noticed that the calls during the world series (and, in
+fact all year) have been pretty much consistently CORRECT.  Remember: the rule
+says it's a strike if ANY PART of the ball passes through the strike zone.
+
+I would certainly agree that  high strikes are not called (who could argue
+this point?) but all in all I think in and out is called pretty well.";leisure;0.6126028567059947;leisure;0.6126028567059947;0.2659625423320226;0.1214346009619825;'pretty': -0.175, 'agree': 0.109, 'point': 0.097, 'fact': 0.089, 'ball': -0.087, 'year': -0.075;'called': 0.065, 'says': -0.063, 'agree': -0.058, 'well': -0.056, 'strike': -0.052, 'high': 0.048;'pretty': 0.151, 'called': -0.139, 'year': 0.112, 'fact': -0.103, 'ball': 0.082, 'zone': 0.080;"Input: I guess that nobody noticed that the calls during the world series (and, in
+fact all year) have been pretty much consistently CORRECT.  Remember: the rule
+says it's a strike if ANY PART of the ball passes through the strike zone.
+
+I would certainly agree that  high strikes are not called (who could argue
+this point?) but all in all I think in and out is called pretty well.
+
+Output: leisure
+Confidence: 0.6126028567059947
+Output rationale: 'pretty': 0.151, 'called': -0.139, 'year': 0.112, 'fact': -0.103, 'ball': 0.082, 'zone': 0.080.";"Input: I guess that nobody noticed that the calls during the world series (and, in
+fact all year) have been pretty much consistently CORRECT.  Remember: the rule
+says it's a strike if ANY PART of the ball passes through the strike zone.
+
+I would certainly agree that  high strikes are not called (who could argue
+this point?) but all in all I think in and out is called pretty well.
+
+Output: leisure
+Confidence: 0.6126028567059947";['pretty', 'called', 'year', 'fact', 'ball', 'zone'];"The model classified the text as ""leisure"" with a confidence of 0.61. The model made this choice because the text contains several key words that are associated with leisure activities, such as ""pretty"", ""year"", ""ball"", and ""zone"". However, the inclusion of words like ""called"" and ""fact"" reduced the model's confidence in its classification, as these words don't tend to be as strongly associated with leisure.";gpt-4;"The Support Vector Machine (SVM) model analyzes the input text and assigns it to a category. The input discussion's context revolves around sports specifics, especially baseball, which is why the model has categorized it into ""leisure"". The confidence score of 0.61 shows that the model is moderately confident about this classification. This means the machine expects this classification to be correct six times out of ten."
+1;"His performance at the plate may well be from the shoulder injury
+received when he ran into the wall making a catch in the Cincy series.
+It may also be him pressing a little.
+
+As for the baserunning, it does not appear to be just Lankford.
+Dent made the bad call sending Lankford in the Sunday night game
+against Cincy - but everyone had a bad time against the Dodger's catcher.
+
+
+Good question.  At least it doesn't appear that we are seeing the
+same Zeile :-)";leisure;0.8906625758371838;leisure;0.8906625758371838;0.0238985867273568;0.0854388374354593;'game': -0.035, 'everyone': 0.020, 'may': -0.019, 'little': -0.017, 'performance': -0.016, 'series': -0.010;'game': -0.137, 'Cincy': 0.045, 'may': 0.038, 'performance': -0.037, 'bad': -0.036, 'well': -0.035;'game': 0.168, 'Cincy': -0.060, 'performance': 0.050, 'bad': 0.038, 'injury': 0.033, 'catcher': 0.032;"Input: His performance at the plate may well be from the shoulder injury
+received when he ran into the wall making a catch in the Cincy series.
+It may also be him pressing a little.
+
+As for the baserunning, it does not appear to be just Lankford.
+Dent made the bad call sending Lankford in the Sunday night game
+against Cincy - but everyone had a bad time against the Dodger's catcher.
+
+
+Good question.  At least it doesn't appear that we are seeing the
+same Zeile :-)
+
+Output: leisure
+Confidence: 0.8906625758371838
+Output rationale: 'game': 0.168, 'Cincy': -0.060, 'performance': 0.050, 'bad': 0.038, 'injury': 0.033, 'catcher': 0.032.";"Input: His performance at the plate may well be from the shoulder injury
+received when he ran into the wall making a catch in the Cincy series.
+It may also be him pressing a little.
+
+As for the baserunning, it does not appear to be just Lankford.
+Dent made the bad call sending Lankford in the Sunday night game
+against Cincy - but everyone had a bad time against the Dodger's catcher.
+
+
+Good question.  At least it doesn't appear that we are seeing the
+same Zeile :-)
+
+Output: leisure
+Confidence: 0.8906625758371838";['game', 'Cincy', 'performance', 'bad', 'injury', 'catcher'];The model interpreted this text as relating to the Leisure category with a fairly high confidence score of 0.89. The decision was primarily influenced by the use of words like 'game', 'performance', 'bad', 'injury', and 'catcher'. The presence of these words indicates that the text might be talking about a sports game – part of the Leisure activities. However, mentioning 'Cincy' went against this classification to some extent, but it was not enough to sway the decision away from the Leisure category.;gpt-4;The Support Vector Machine model has identified the text input as related to 'leisure'. This means that it believes the contents of your text are concerning recreational activities, more specifically, it seems to be about a sport. The model's confidence in this classification is quite high, at 89%. It delivers this conclusion with a lot of certainty because of the terms used in the text like 'performance', 'plate', 'catch', 'game', and 'baserunning', which are typically associated with sports, a typical leisure activity.
